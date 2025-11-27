@@ -37,7 +37,6 @@ crash-reports/
 
 # ───── Fabric launcher junk ────────────────────────────────
 .fabric/
-fabric-server-launcher.properties
 
 # ───── Server runtime files ────────────────────────────────
 usercache.json
