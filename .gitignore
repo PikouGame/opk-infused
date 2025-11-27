@@ -35,9 +35,6 @@ logs/
 crash-reports/
 *.log
 
-# ───── Fabric launcher junk ────────────────────────────────
-.fabric/
-
 # ───── Server runtime files ────────────────────────────────
 usercache.json
 ops.json
