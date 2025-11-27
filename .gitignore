@@ -16,7 +16,6 @@ world/logs/
 
 # ───── Mods, Libraries, Versions (large binaries) ──────────
 mods/
-versions/
 
 # If you want to keep your mod ZIP in Releases instead:
 mods.zip
@@ -33,7 +32,6 @@ audioplayer_uploads/
 # ───── Logs & crash reports ────────────────────────────────
 logs/
 crash-reports/
-*.log
 
 # ───── Server runtime files ────────────────────────────────
 usercache.json
