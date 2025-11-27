@@ -1,5 +1,4 @@
-# Ignore heavy world data inside /world
-
+# ───── Minecraft World (heavy) ─────────────────────────────
 world/DIM1/
 world/DIM-1/
 world/dimensions/
@@ -9,55 +8,70 @@ world/poi/
 world/playerdata/
 world/stats/
 world/advancements/
-
-# Modded world extras
-world/ftbessentials/
-world/betterdeserttemples/
-
-# Junk world files
 world/level.dat
 world/level.dat_old
 world/session.lock
-
-# Crash and logs (optional, but recommended)
 world/crash-reports/
 world/logs/
-world/*.log
 
-
-
-# Ignore all built mod files
+# ───── Mods, Libraries, Versions (large binaries) ──────────
 mods/
+libraries/
+versions/
+*.jar
 *.zip
-*.7z
 *.rar
-*.pak
+*.7z
+*.iso
 *.mod
 *.bin
-*.dat
-*.iso
+*.pack
 *.bundle
 
-# Ignore temp build files
-build/
-dist/
-out/
-cache/
-temp/
-tmp/
+# If you want to keep your mod ZIP in Releases instead:
+mods.zip
 
-# Ignore logs
+# ───── Temp, Cache, Generated folders ──────────────────────
+.mixin.out/
+dynamic-data-pack-cache/
+defaultconfigs/
+moonlight-global-datapacks/
+showdown/
+showdown-backup/
+audioplayer_uploads/
+
+# ───── Logs & crash reports ────────────────────────────────
+logs/
+crash-reports/
 *.log
 
-# Ignore workspace/editor garbage
+# ───── Fabric launcher junk ────────────────────────────────
+.fabric/
+fabric-server-launch.jar
+fabric-server-launcher.properties
+
+# ───── Server runtime files ────────────────────────────────
+usercache.json
+ops.json
+banned-ips.json
+banned-players.json
+whitelist.json
+session.lock
+eula.txt
+
+# ───── OS / Editor Garbage ────────────────────────────────
 .vscode/
 .idea/
-*.suo
-*.user
-*.userossc
-*.sln.docstates
-
-# Ignore OS-specific crap
-.DS_Store
 Thumbs.db
+.DS_Store
 desktop.ini
+*.tmp
+*.bak
+*.old
+
+# ───── Build / Misc ────────────────────────────────────────
+build/
+dist/
+cache/
+tmp/
+out/
