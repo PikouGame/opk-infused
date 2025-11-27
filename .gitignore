@@ -16,7 +16,7 @@ world/logs/
 
 # ───── Mods, Libraries, Versions (large binaries) ──────────
 mods/
-libraries/
+versions/
 
 # If you want to keep your mod ZIP in Releases instead:
 mods.zip
