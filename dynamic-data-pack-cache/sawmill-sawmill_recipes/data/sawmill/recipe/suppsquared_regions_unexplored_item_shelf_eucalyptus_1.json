@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:eucalyptus_planks"
+  },
+  "result": {
+    "id": "suppsquared:regions_unexplored/item_shelf_eucalyptus",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

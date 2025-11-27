@@ -1,0 +1,31 @@
+{
+	"displays": [
+		{
+			"name": "store_holo",
+			"offset": [
+				0.0,
+				0.0,
+				0.0
+			]
+		}
+	],
+	"position": {
+		"world": "minecraft:overworld",
+		"x": -29.59,
+		"y": 146.283,
+		"z": -61.805
+	},
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		2.0,
+		2.0,
+		2.0
+	],
+	"billboardMode": "CENTER",
+	"updateRate": 20,
+	"viewRange": 16.0
+}

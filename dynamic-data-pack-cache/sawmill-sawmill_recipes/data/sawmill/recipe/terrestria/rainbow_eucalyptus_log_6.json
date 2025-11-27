@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "terrestria:stripped_rainbow_eucalyptus_wood"
+  },
+  "result": {
+    "id": "terrestria:stripped_rainbow_eucalyptus_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

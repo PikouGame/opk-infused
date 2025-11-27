@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:rubber_log"
+    },
+    {
+      "item": "terrestria:rubber_wood"
+    },
+    {
+      "item": "terrestria:stripped_rubber_log"
+    },
+    {
+      "item": "terrestria:stripped_rubber_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

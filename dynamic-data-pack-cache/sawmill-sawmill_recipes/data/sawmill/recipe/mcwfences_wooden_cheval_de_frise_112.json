@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:yucca_palm_log"
+    },
+    {
+      "item": "terrestria:stripped_yucca_palm_log"
+    }
+  ],
+  "result": {
+    "id": "mcwfences:wooden_cheval_de_frise",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

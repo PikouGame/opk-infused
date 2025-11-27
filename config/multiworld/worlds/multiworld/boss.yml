@@ -1,0 +1,4 @@
+namespace: multiworld
+path: boss
+environment: NORMAL
+seed: -1034501235

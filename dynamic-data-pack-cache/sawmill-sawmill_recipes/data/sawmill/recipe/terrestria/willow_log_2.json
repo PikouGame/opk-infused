@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "terrestria:willow_log"
+  },
+  "result": {
+    "id": "terrestria:willow_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

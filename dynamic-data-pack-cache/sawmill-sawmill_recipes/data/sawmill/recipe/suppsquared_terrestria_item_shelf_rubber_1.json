@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "terrestria:rubber_planks"
+  },
+  "result": {
+    "id": "suppsquared:terrestria/item_shelf_rubber",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

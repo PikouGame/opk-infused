@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "betternether:wart_log"
+    },
+    {
+      "item": "betternether:wart_bark"
+    },
+    {
+      "item": "betternether:wart_stripped_log"
+    },
+    {
+      "item": "betternether:wart_stripped_bark"
+    }
+  ],
+  "result": {
+    "id": "oritech:machine_core_1",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

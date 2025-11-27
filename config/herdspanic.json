@@ -1,0 +1,8 @@
+{
+  "herd_panic": true,
+  "shelter_seeking": true,
+  "alert_all_animals": false,
+  "excluded_entities": [],
+  "panic_time": 90,
+  "panic_distance": 14.0
+}

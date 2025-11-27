@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "affinity:azalea_planks"
+  },
+  "result": {
+    "id": "affinity:azalea_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

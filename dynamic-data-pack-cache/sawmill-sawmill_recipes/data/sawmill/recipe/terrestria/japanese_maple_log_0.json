@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "terrestria:japanese_maple_log"
+  },
+  "result": {
+    "id": "terrestria:stripped_japanese_maple_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

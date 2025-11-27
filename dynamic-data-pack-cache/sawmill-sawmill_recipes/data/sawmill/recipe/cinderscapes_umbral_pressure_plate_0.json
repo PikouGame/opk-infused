@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "cinderscapes:umbral_stem"
+    },
+    {
+      "item": "cinderscapes:umbral_hyphae"
+    },
+    {
+      "item": "cinderscapes:stripped_umbral_stem"
+    },
+    {
+      "item": "cinderscapes:stripped_umbral_hyphae"
+    }
+  ],
+  "result": {
+    "id": "cinderscapes:umbral_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

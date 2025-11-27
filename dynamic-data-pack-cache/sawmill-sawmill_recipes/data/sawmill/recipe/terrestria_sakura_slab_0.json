@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:sakura_log"
+    },
+    {
+      "item": "terrestria:stripped_sakura_log"
+    }
+  ],
+  "result": {
+    "id": "terrestria:sakura_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

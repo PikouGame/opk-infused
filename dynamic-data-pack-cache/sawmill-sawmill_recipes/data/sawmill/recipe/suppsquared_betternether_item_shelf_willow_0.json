@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "betternether:willow_log"
+    },
+    {
+      "item": "betternether:willow_bark"
+    },
+    {
+      "item": "betternether:willow_stripped_log"
+    },
+    {
+      "item": "betternether:willow_stripped_bark"
+    }
+  ],
+  "result": {
+    "id": "suppsquared:betternether/item_shelf_willow",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

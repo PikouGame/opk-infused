@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "traverse:stripped_fir_wood"
+  },
+  "result": {
+    "id": "traverse:stripped_fir_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

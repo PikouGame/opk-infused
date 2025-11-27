@@ -1,0 +1,4 @@
+namespace: boss
+path: gauntlet
+environment: NORMAL
+seed: -24534977

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "cinderscapes:umbral_stem"
+    },
+    {
+      "item": "cinderscapes:umbral_hyphae"
+    },
+    {
+      "item": "cinderscapes:stripped_umbral_stem"
+    },
+    {
+      "item": "cinderscapes:stripped_umbral_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

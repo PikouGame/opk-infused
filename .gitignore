@@ -1,0 +1,63 @@
+# Ignore heavy world data inside /world
+
+world/DIM1/
+world/DIM-1/
+world/dimensions/
+world/region/
+world/entities/
+world/poi/
+world/playerdata/
+world/stats/
+world/advancements/
+
+# Modded world extras
+world/ftbessentials/
+world/betterdeserttemples/
+
+# Junk world files
+world/level.dat
+world/level.dat_old
+world/session.lock
+
+# Crash and logs (optional, but recommended)
+world/crash-reports/
+world/logs/
+world/*.log
+
+
+
+# Ignore all built mod files
+mods/
+*.zip
+*.7z
+*.rar
+*.pak
+*.mod
+*.bin
+*.dat
+*.iso
+*.bundle
+
+# Ignore temp build files
+build/
+dist/
+out/
+cache/
+temp/
+tmp/
+
+# Ignore logs
+*.log
+
+# Ignore workspace/editor garbage
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# Ignore OS-specific crap
+.DS_Store
+Thumbs.db
+desktop.ini

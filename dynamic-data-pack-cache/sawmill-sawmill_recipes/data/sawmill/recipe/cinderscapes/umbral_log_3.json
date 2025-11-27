@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "cinderscapes:umbral_hyphae"
+  },
+  "result": {
+    "id": "cinderscapes:umbral_stem",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

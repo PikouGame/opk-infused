@@ -1,0 +1,4 @@
+namespace: og
+path: world
+environment: NORMAL
+seed: 1775818853104411963

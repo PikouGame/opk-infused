@@ -1,0 +1,4 @@
+namespace: boss
+path: mutants
+environment: NORMAL
+seed: -561410181

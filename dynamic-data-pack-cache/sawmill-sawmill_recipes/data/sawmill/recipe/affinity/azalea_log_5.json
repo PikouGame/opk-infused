@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "affinity:azalea_wood"
+  },
+  "result": {
+    "id": "affinity:stripped_azalea_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

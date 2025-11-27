@@ -1,0 +1,12 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 40,
+  "list_header": [
+    "<color:#555555><strikethrough>        </strikethrough>[ </color><white>%server:online%</white>/<white>%server:max_players%</white><color:#555555> ]<strikethrough>        </strikethrough></color>"
+  ],
+  "list_footer": [
+    "<color:#555555><strikethrough>                          </strikethrough></color>",
+    "<gray>TPS: %spark:tps 10s% <dark_gray>|</dark_gray> <gray>Ping: <white>%player:ping%</white>"
+  ],
+  "hidden_in_commands": false
+}

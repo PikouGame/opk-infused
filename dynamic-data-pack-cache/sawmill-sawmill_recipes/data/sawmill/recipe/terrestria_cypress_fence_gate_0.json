@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:cypress_log"
+    },
+    {
+      "item": "terrestria:cypress_wood"
+    },
+    {
+      "item": "terrestria:stripped_cypress_log"
+    },
+    {
+      "item": "terrestria:stripped_cypress_wood"
+    }
+  ],
+  "result": {
+    "id": "terrestria:cypress_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

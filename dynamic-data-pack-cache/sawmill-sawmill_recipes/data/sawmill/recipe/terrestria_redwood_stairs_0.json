@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:redwood_log"
+    },
+    {
+      "item": "terrestria:redwood_wood"
+    },
+    {
+      "item": "terrestria:stripped_redwood_log"
+    },
+    {
+      "item": "terrestria:stripped_redwood_wood"
+    }
+  ],
+  "result": {
+    "id": "terrestria:redwood_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

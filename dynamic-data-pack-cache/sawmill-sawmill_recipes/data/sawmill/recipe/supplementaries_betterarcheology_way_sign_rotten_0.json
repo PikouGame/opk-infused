@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
+  "result": {
+    "id": "supplementaries:betterarcheology/way_sign_rotten",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

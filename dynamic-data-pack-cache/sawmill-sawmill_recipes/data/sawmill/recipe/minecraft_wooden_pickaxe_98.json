@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "affinity:azalea_log"
+    },
+    {
+      "item": "affinity:azalea_wood"
+    },
+    {
+      "item": "affinity:stripped_azalea_log"
+    },
+    {
+      "item": "affinity:stripped_azalea_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

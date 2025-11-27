@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:rainbow_eucalyptus_log"
+    },
+    {
+      "item": "terrestria:rainbow_eucalyptus_wood"
+    },
+    {
+      "item": "terrestria:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "terrestria:stripped_rainbow_eucalyptus_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

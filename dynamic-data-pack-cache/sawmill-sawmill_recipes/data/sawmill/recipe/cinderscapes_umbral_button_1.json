@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cinderscapes:umbral_planks"
+  },
+  "result": {
+    "id": "cinderscapes:umbral_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

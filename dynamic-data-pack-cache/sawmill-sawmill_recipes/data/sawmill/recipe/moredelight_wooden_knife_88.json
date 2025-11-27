@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:willow_log"
+    },
+    {
+      "item": "terrestria:willow_wood"
+    },
+    {
+      "item": "terrestria:stripped_willow_log"
+    },
+    {
+      "item": "terrestria:stripped_willow_wood"
+    }
+  ],
+  "result": {
+    "id": "moredelight:wooden_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

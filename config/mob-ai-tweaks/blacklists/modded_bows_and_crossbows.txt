@@ -1,0 +1,14 @@
+#Dual blacklist for modded bows and crossbows, takes their in-game ID (e.g. mob-ai-tweaks:modded_bow_or_crossbow_item)
+dragonloot:dragon_bow
+dragonloot:dragon_crossbow
+archers:aether_heavy_crossbow
+archers:aether_rapid_crossbow
+archers:aether_longbow
+archers:ruby_heavy_crossbow
+archers:ruby_rapid_crossbow
+arsenal:unique_longbow_1
+arsenal:unique_longbow_2
+arsenal:unique_longbow_sw
+arsenal:unique_heavy_crossbow_1
+arsenal:unique_heavy_crossbow_2
+arsenal:unique_heavy_crossbow_sw

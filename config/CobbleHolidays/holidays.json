@@ -1,0 +1,128 @@
+{
+  "holidays": [
+    {
+      "holiday": "New Year's Day",
+      "startDate": "01-01",
+      "pokemonEntityList": [
+        {
+          "name": "pichu",
+          "level": 10,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        },
+        {
+          "name": "clefairy",
+          "level": 15,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        }
+      ],
+      "holidayMessage": "Happy New Year! Celebrate with a special Pichu!"
+    },
+    {
+      "holiday": "March Break",
+      "startDate": "03-10",
+      "endDate": "03-14",
+      "pokemonEntityList": [
+        {
+          "name": "togekiss",
+          "level": 15,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        },
+        {
+          "name": "leafeon",
+          "level": 40,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        }
+      ],
+      "holidayMessage": "Enjoy your March Break Pokemon Spawns!"
+    },
+    {
+      "holiday": "Independence Day",
+      "startDate": "07-04",
+      "pokemonEntityList": [
+        {
+          "name": "pikachu",
+          "level": 25,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        },
+        {
+          "name": "charizard",
+          "level": 40,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        }
+      ],
+      "holidayMessage": "Celebrate freedom with a Pikachu and Charizard!"
+    },
+    {
+      "holiday": "Thanksgiving",
+      "startDate": "11-25",
+      "pokemonEntityList": [
+        {
+          "name": "farfetchd",
+          "level": 20,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        },
+        {
+          "name": "squirtle",
+          "level": 10,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        }
+      ],
+      "holidayMessage": "Give thanks with Farfetch'd and Squirtle!"
+    },
+    {
+      "holiday": "Halloween",
+      "startDate": "10-31",
+      "pokemonEntityList": [
+        {
+          "name": "gastly",
+          "level": 25,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        },
+        {
+          "name": "pumpkaboo",
+          "level": 20,
+          "spawnRate": 0.0,
+          "allowedBiomes": []
+        }
+      ],
+      "holidayMessage": "Spooky season with Gastly and Pumpkaboo!"
+    },
+    {
+      "holiday": "Christmas",
+      "startDate": "12-25",
+      "pokemonEntityList": [
+        {
+          "name": "delibird",
+          "level": 15,
+          "spawnRate": 0.0,
+          "allowedBiomes": [
+            "minecraft:forest",
+            "minecraft:plains"
+          ]
+        },
+        {
+          "name": "snorlax",
+          "level": 35,
+          "spawnRate": 0.0,
+          "allowedBiomes": [
+            "minecraft:forest",
+            "minecraft:plains"
+          ]
+        }
+      ],
+      "holidayMessage": "Merry Christmas with Delibird and Snorlax!"
+    }
+  ],
+  "cooldown": 7200000,
+  "sendMessagesEnabled": false,
+  "messageCooldown": 7200000
+}

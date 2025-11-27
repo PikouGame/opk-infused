@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "terrestria:sakura_planks"
+  },
+  "result": {
+    "id": "moredelight:wooden_knife",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "terrestria:rubber_wood"
+  },
+  "result": {
+    "id": "terrestria:stripped_rubber_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

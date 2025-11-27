@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:japanese_maple_log"
+    },
+    {
+      "item": "terrestria:japanese_maple_wood"
+    },
+    {
+      "item": "terrestria:stripped_japanese_maple_log"
+    },
+    {
+      "item": "terrestria:stripped_japanese_maple_wood"
+    }
+  ],
+  "result": {
+    "id": "suppsquared:terrestria/item_shelf_japanese_maple",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

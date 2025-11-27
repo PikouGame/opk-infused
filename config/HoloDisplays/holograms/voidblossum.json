@@ -1,0 +1,22 @@
+{
+	"displays": [],
+	"position": {
+		"world": "boss:voidblossum",
+		"x": 31.5,
+		"y": 2.0,
+		"z": 0.5
+	},
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"billboardMode": "CENTER",
+	"updateRate": 20,
+	"viewRange": 16.0
+}

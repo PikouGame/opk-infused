@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cinderscapes:scorched_planks"
+  },
+  "result": {
+    "id": "cinderscapes:scorched_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

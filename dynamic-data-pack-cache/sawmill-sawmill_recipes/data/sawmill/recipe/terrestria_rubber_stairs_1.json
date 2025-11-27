@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "terrestria:rubber_planks"
+  },
+  "result": {
+    "id": "terrestria:rubber_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

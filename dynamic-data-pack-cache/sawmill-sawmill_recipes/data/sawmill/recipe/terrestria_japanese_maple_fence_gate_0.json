@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:japanese_maple_log"
+    },
+    {
+      "item": "terrestria:japanese_maple_wood"
+    },
+    {
+      "item": "terrestria:stripped_japanese_maple_log"
+    },
+    {
+      "item": "terrestria:stripped_japanese_maple_wood"
+    }
+  ],
+  "result": {
+    "id": "terrestria:japanese_maple_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

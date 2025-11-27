@@ -1,0 +1,31 @@
+{
+	"displays": [
+		{
+			"name": "comchest_text",
+			"offset": [
+				0.0,
+				0.0,
+				0.0
+			]
+		}
+	],
+	"position": {
+		"world": "minecraft:overworld",
+		"x": 6.0,
+		"y": 153.0,
+		"z": -36.5
+	},
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"billboardMode": "CENTER",
+	"updateRate": 20,
+	"viewRange": 16.0
+}

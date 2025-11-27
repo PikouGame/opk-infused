@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "regions_unexplored:pink_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+    }
+  ],
+  "result": {
+    "id": "snowyspirit:regions_unexplored/sled_pink_bioshroom",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:brimwood_planks"
+  },
+  "result": {
+    "id": "suppsquared:regions_unexplored/item_shelf_brimwood",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,122 @@
+{
+	// Paladin Helmet Attributes
+	"paladinHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Paladin Chestplate Attributes
+	"paladinChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Paladin Leggings Attributes
+	"paladinLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Paladin Boots Attributes
+	"paladinBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	},
+	// Fire Mage Helmet Attributes
+	"fireMageHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Fire Mage Helmet Attributes
+	"fireMageChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Fire Mage Helmet Attributes
+	"fireMageLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Fire Mage Helmet Attributes
+	"fireMageBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	},
+	// Archer Helmet Attributes
+	"archerHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Archer Chestplate Attributes
+	"archerChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Archer Leggings Attributes
+	"archerLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Archer Boots Attributes
+	"archerBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	},
+	// Assassin Helmet Attributes
+	"assassinHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Assassin Chestplate Attributes
+	"assassinChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Assassin Leggings Attributes
+	"assassinLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Assassin Boots Attributes
+	"assassinBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	},
+	// Ice Mage Helmet Attributes
+	"iceMageHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Ice Mage Chestplate Attributes
+	"iceMageChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Ice Mage Leggings Attributes
+	"iceMageLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Ice Mage Boots Attributes
+	"iceMageBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	},
+	// Warrior Helmet Attributes
+	"warriorHelmetAttributes": {
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Warrior Chestplate Attributes
+	"warriorChestplateAttributes": {
+		"minecraft:generic.armor": 4.0,
+		"minecraft:generic.armor_toughness": 1.5
+	},
+	// Warrior Leggings Attributes
+	"warriorLeggingsAttributes": {
+		"minecraft:generic.armor": 3.0,
+		"minecraft:generic.armor_toughness": 1.0
+	},
+	// Warrior Boots Attributes
+	"warriorBootsAttributes": {
+		"minecraft:generic.armor": 1.0,
+		"minecraft:generic.armor_toughness": 0.0
+	}
+}

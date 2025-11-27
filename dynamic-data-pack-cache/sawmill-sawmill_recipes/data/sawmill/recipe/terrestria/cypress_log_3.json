@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "terrestria:cypress_wood"
+  },
+  "result": {
+    "id": "terrestria:cypress_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

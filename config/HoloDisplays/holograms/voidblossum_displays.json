@@ -1,0 +1,31 @@
+{
+	"displays": [
+		{
+			"name": "voidblossum_displays_text",
+			"offset": [
+				0.0,
+				0.0,
+				0.0
+			]
+		}
+	],
+	"position": {
+		"world": "boss:voidblossum",
+		"x": 0.5,
+		"y": 2.0,
+		"z": 55.5
+	},
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"billboardMode": "CENTER",
+	"updateRate": 20,
+	"viewRange": 16.0
+}

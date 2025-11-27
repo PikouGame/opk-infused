@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "betternether:nether_sakura_planks"
+  },
+  "result": {
+    "id": "suppsquared:betternether/item_shelf_nether_sakura",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

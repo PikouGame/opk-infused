@@ -1,0 +1,4 @@
+namespace: ressources
+path: nether
+environment: NETHER
+seed: -2015271534

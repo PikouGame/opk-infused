@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "betternether:nether_reed_stem"
+  },
+  "result": {
+    "id": "mcwholidays:red_candy_cane_stairs",
+    "count": 1
+  },
+  "ingredient_count": 6,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "terrestria:hemlock_log"
+    },
+    {
+      "item": "terrestria:hemlock_wood"
+    },
+    {
+      "item": "terrestria:stripped_hemlock_log"
+    },
+    {
+      "item": "terrestria:stripped_hemlock_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

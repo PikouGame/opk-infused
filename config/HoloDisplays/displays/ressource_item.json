@@ -1,0 +1,10 @@
+{
+	"type": "item",
+	"id": "minecraft:diamond_ore",
+	"displayType": "ground",
+	"scale": [
+		2.0,
+		2.0,
+		2.0
+	]
+}

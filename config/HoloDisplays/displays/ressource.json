@@ -1,0 +1,12 @@
+{
+	"type": "text",
+	"lines": [
+		"<bold><green>Ressource <white>World"
+	],
+	"shadow": true,
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	]
+}

@@ -1,0 +1,14 @@
+{
+	// Assassin Dagger Attributes
+	"assassinDaggerAttributes": {
+		"minecraft:generic.attack_damage": 8.0,
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	},
+	// Paladin Sword Attributes
+	"paladinSwordAttributes": {
+		"minecraft:generic.attack_damage": 8.0,
+		"minecraft:generic.armor": 2.0,
+		"minecraft:generic.armor_toughness": 0.5
+	}
+}

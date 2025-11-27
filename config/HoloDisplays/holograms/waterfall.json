@@ -1,0 +1,31 @@
+{
+	"displays": [
+		{
+			"name": "waterfall_text",
+			"offset": [
+				0.0,
+				0.0,
+				0.0
+			]
+		}
+	],
+	"position": {
+		"world": "minecraft:overworld",
+		"x": 35.5,
+		"y": 118.5,
+		"z": -78.5
+	},
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"billboardMode": "CENTER",
+	"updateRate": 20,
+	"viewRange": 16.0
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "terrestria:sakura_planks"
+  },
+  "result": {
+    "id": "terrestria:sakura_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

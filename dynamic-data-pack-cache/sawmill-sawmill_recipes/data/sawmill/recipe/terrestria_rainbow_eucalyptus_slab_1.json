@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "terrestria:rainbow_eucalyptus_planks"
+  },
+  "result": {
+    "id": "terrestria:rainbow_eucalyptus_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

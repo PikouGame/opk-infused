@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "cinderscapes:scorched_hyphae"
+  },
+  "result": {
+    "id": "cinderscapes:stripped_scorched_stem",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

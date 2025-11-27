@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "cinderscapes:scorched_stem"
+    },
+    {
+      "item": "cinderscapes:scorched_hyphae"
+    },
+    {
+      "item": "cinderscapes:stripped_scorched_stem"
+    },
+    {
+      "item": "cinderscapes:stripped_scorched_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecraft:composter",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}
