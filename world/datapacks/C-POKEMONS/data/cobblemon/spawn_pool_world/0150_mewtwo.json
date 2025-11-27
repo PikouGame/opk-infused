@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "mewtwo-1",
+      "pokemon": "mewtwo",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.005,
+      "condition": {
+        "biomes": [ 
+          "#cobblemon:is_overworld"
+         ],
+         "timeRange": "afternoon",
+         "neededBaseBlocks": [
+          "minecraft:grass_block"
+      ]  
+      }
+    }
+  ]
+}

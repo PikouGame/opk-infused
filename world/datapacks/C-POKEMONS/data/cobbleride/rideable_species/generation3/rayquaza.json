@@ -1,0 +1,15 @@
+{
+  "name": "Rayquaza",
+  "offsets": {
+    "DEFAULT": {
+      "x": 0,
+      "y": 0.4,
+      "z": 0.4
+    }
+  },
+  "baseSpeedModifier": 1.0,
+  "landSpeedModifier": 0.5,
+  "waterSpeedModifier": 1.0,
+  "airSpeedModifier": 1.2,
+  "forms": []
+}

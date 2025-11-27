@@ -1,0 +1,15 @@
+{
+  "pokemon": [
+    "snorlax",
+    "dragonite",
+    "gengar",
+    "psyduck",
+    "golduck",
+    "tinkaton",
+    "greninja",
+    "garchomp"
+  ],
+  "features": [
+    "summer"
+  ]
+}

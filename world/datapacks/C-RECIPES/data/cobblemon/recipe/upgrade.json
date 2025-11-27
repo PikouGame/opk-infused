@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GRG",
+        "CAC"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:tinted_glass"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "C": {
+            "item": "minecraft:copper_block"
+        },
+        "A": {
+            "tag": "c:gems/amethyst"
+        }
+    },
+    "result": {
+        "id": "cobblemon:upgrade"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "implemented": true,
+    "name": "pitipole",
+    "nationalPokedexNumber": 2000,
+    "primaryType": "poison",
+	"secondaryType": "water",
+    "abilities": [
+        "klutz",
+		"oblivious",
+        "h:anticipation"
+    ],
+    "baseStats": {
+        "hp": 30,
+        "attack": 20,
+        "defence": 20,
+        "special_attack": 25,
+        "special_defence": 20,
+        "speed": 35
+    },
+    "catchRate": 45,
+    "maleRatio": -1,
+    "shoulderMountable": false,
+    "forms": [],
+    "baseExperienceYield": 60,
+    "experienceGroup": "fluctuating",
+    "eggCycles": 40,
+    "eggGroups": [
+        "undiscovered"
+    ],
+	"behaviour": {
+        "moving": {
+            "canLook": false,
+            "walk": {
+                "avoidsLand": true
+            },
+            "swim": {
+                "swimSpeed": 0.1,
+                "canSwimInWater": true,
+				"canBreatheUnderwater": true
+            },
+            "wanderChance": 1
+        }
+    },
+	"features": [
+        "mischief"
+    ],
+    "drops": {
+        "amount": "1",
+        "entries": [
+            {
+                "item": "minecraft:slimeball",
+                "quantityRange": "1-2",
+                "percentage": 66
+            },
+            {
+                "item": "minecraft:slime_block",
+                "quantityRange": "1",
+                "percentage": 1
+            }
+        ]
+    },
+    "moves": [
+		"0:supersonic",
+		"0:bubble",
+        "49:flail",
+		"99:splash"
+    ],
+    "labels": [
+        "custom"
+    ],
+    "pokedex": [
+        "cobblemon.species.pitipole.desc1",
+        "cobblemon.species.pitipole.desc2"
+    ],
+    "evolutions": [
+        {
+            "id": "pitipole_tentaquil",
+            "variant": "item_interact",
+            "result": "tentaquil",
+            "consumeHeldItem": false,
+            "learnableMoves": [],
+            "requirements": [],
+            "requiredContext": "minecraft:glow_berries"
+        },
+		{
+            "id": "pitipole_tentaquil_lvl",
+            "variant": "level_up",
+            "result": "tentaquil mischief",
+            "consumeHeldItem": false,
+            "learnableMoves": [],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 100
+                }
+            ]
+        }
+    ],
+    "baseScale": 1,
+    "hitbox": {
+        "width": 0.6,
+        "height": 0.4,
+        "fixed": false
+    },
+    "baseFriendship": 35,
+    "evYield": {
+        "speed": 1
+    },
+    "height": 7,
+    "weight": 8
+}

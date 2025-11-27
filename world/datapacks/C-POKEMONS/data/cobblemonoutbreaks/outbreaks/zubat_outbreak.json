@@ -1,0 +1,28 @@
+{
+  "algorithms": {
+    "spawn_range": 20.0
+  },
+  "biome": [
+    "#cobblemon:is_forest",
+    "#cobblemon:is_grassland",
+    "#cobblemon:is_hills",
+    "#cobblemon:is_jungle",
+    "#cobblemon:is_sky",
+    "#cobblemon:is_swamp",
+    "#cobblemon:is_overworld",
+    "#cobblemon:is_spooky"
+  ],
+  "species_data": {
+    "spawns_per_wave": 4,
+    "species": "zubat",
+    "waves": 3
+  },
+  "rewards": {
+    "item_rewards": [
+      "cobblemon:exp_candy_s"
+    ]
+  },
+  "level_algorithm": "min_max",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 25
+}

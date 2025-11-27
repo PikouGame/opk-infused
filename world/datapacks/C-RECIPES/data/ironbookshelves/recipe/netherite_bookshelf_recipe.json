@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " N ",
+    "NBN",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "B": {
+      "item": "ironbookshelves:obsidian_bookshelf"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ironbookshelves:netherite_bookshelf"
+  }
+}

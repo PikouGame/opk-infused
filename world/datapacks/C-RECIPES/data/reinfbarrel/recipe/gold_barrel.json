@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["MMM", "MBM", "MMM"],
+  "key": {
+    "B": {
+      "item": "reinfbarrel:iron_barrel"
+    },
+    "M": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfbarrel:gold_barrel"
+  }
+}

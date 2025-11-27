@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "toedscool-1",
+            "pokemon": "toedscool",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "18-56",
+            "weight": 2,
+            "condition": {
+                "biomes": [
+	               "#cobblemon:is_taiga"
+            	]
+            }
+        }
+    ]
+}

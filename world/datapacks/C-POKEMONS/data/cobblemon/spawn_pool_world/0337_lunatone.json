@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "lunatone-1",
+            "pokemon": "lunatone",
+            "presets": [
+                "underground"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "16-63",
+            "weight": 4,
+            "condition": {
+                "canSeeSky": false,
+                "timeRange": "night",
+                "biomes": [
+                    "#cobblemon:is_cave"
+            ]
+            },
+            "anticondition": {
+                "timeRange": "day"
+            }
+        },
+        {
+            "id": "lunastone-astra-1",
+            "pokemon": "lunatone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "17-32",
+            "weight": 2,
+            "condition": {
+            "canSeeSky": false,
+            "biomes": [
+              "#cobblemon:is_moon"
+            ]
+          }
+        }
+    ]
+}

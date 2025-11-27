@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:hopper"
+    },
+    "B": {
+      "item": "travelersbackpack:blank_upgrade"
+    },
+    "C": {
+      "item": "minecraftredstone_block"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "travelersbackpack:pickup_upgrade"
+  }
+}

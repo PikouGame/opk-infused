@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "poipole-1",
+            "pokemon": "poipole",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.04,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+			}
+		}
+    ]
+}

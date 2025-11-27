@@ -1,0 +1,47 @@
+{
+  "school": "spell_power:physical_ranged",
+  "range": 0.0,
+  "tier": 3,
+  "learn": {},
+  "active": {
+    "scroll": {},
+    "cast": {
+      "duration": 2.25,
+      "animation": "spell_engine:archery_pull",
+      "animates_ranged_weapon": true,
+      "sound": {
+        "id": "archers:bow_pull"
+      }
+    }
+  },
+  "release": {
+    "animation": "spell_engine:archery_release"
+  },
+  "target": {
+    "type": "AIM",
+    "aim": {}
+  },
+  "deliver": {
+    "type": "SHOOT_ARROW",
+    "shoot_arrow": {
+      "launch_properties": {
+        "velocity": 5.0,
+        "extra_launch_count": 3
+      }
+    }
+  },
+  "arrow_perks": {
+    "damage_multiplier": 0.7,
+    "bypass_iframes": true,
+    "knockback": 0.5
+  },
+  "cost": {
+    "cooldown": {
+      "duration": 15.0
+    },
+    "item": {
+      "id": "arrow",
+      "consume": false
+    }
+  }
+}

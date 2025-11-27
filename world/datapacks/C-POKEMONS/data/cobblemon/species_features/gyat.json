@@ -1,0 +1,6 @@
+{
+  "keys": ["gyat"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

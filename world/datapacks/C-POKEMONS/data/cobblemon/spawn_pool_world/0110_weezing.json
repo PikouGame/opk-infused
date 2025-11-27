@@ -1,0 +1,109 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "weezing-1",
+            "pokemon": "weezing",
+            "presets": [
+                "natural",
+				"urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "35-49",
+            "weight": 0.2,
+			"weightMultiplier": {
+				"multiplier": 5.0,
+				"condition": {
+					"timeRange": "night"
+				}
+			},
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition": {
+                "structures": [
+                    "#minecraft:village"
+                ]
+            }
+        },
+        {
+            "id": "weezing-2",
+            "pokemon": "weezing",
+            "presets": [
+                "natural",
+				"village"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "35-49",
+            "weight": 0.2,
+			"weightMultiplier": {
+				"multiplier": 5.0,
+				"condition": {
+					"timeRange": "night"
+				}
+			},
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
+        },
+		{
+            "id": "weezing-3",
+            "pokemon": "weezing",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "35-49",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_nether_toxic"
+                ]
+            }
+        },
+      {
+        "id": "weezing-astra-1",
+        "pokemon": "weezing",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "rare",
+        "level": "35-49",
+        "weight": 100.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#cobblemon:is_venus_wastes"
+          ]
+        }
+      },
+      {
+        "id": "weezing-astra-2",
+        "pokemon": "weezing",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "rare",
+        "level": "35-49",
+        "weight": 50.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#cobblemon:is_venus_barrens"
+          ]
+        }
+      }
+    ]
+}

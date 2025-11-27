@@ -1,0 +1,131 @@
+{
+    "implemented": true,
+    "name": "tentaquil",
+    "nationalPokedexNumber": 2001,
+    "primaryType": "poison",
+	"secondaryType": "water",
+    "abilities": [
+        "toughclaws",
+		"prankster",
+        "h:serenegrace"
+    ],
+    "baseStats": {
+        "hp": 125,
+        "attack": 105,
+        "defence": 95,
+        "special_attack": 120,
+        "special_defence": 85,
+        "speed": 70
+    },
+	"behaviour": {
+        "moving": {
+            "canLook": false,
+            "swim": {
+                "swimSpeed": 0.2,
+                "canSwimInWater": true,
+				"canBreatheUnderwater": true
+            }
+        }
+    },
+	"features": [
+        "mischief"
+    ],
+    "catchRate": 30,
+    "maleRatio": 0.5,
+    "shoulderMountable": false,
+    "forms": [],
+    "baseExperienceYield": 270,
+    "experienceGroup": "fluctuating",
+    "eggCycles": 25,
+    "eggGroups": [
+        "water_1",
+		"monster"
+    ],
+    "drops": {
+        "amount": "2",
+        "entries": [
+            {
+                "item": "minecraft:slimeball",
+                "quantityRange": "1-2",
+                "percentage": 66
+            },
+            {
+                "item": "minecraft:slime_block",
+                "quantityRange": "1",
+                "percentage": 20
+            }
+        ]
+    },
+    "moves": [
+		"egg:disable",
+		"egg:dizzypunch",
+		"egg:mudbomb",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+        "0:acidspray",
+		"0:leer",
+		"0:bubble",
+		"0:supersonic",
+		"4:yawn",
+		"8:fakeout",
+		"16:soak",
+		"20:crushclaw",
+		"24:knockoff",
+		"28:gastroacid",
+		"32:bodyslam",
+		"36:bellydrum",
+		"40:muddywater",
+		"44:sludgebomb",
+		"48:taunt",
+		"52:belch",
+		"99:splash",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:rest",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:taunt",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+        "tutor:honeclaws"
+    ],
+    "labels": [
+        "custom"
+    ],
+    "pokedex": [
+        "cobblemon.species.tentaquil.desc1",
+        "cobblemon.species.tentaquil.desc2"
+    ],
+    "preEvolution": "pitipole",
+    "baseScale": 1.1,
+    "hitbox": {
+        "width": 0.9,
+        "height": 1.4,
+        "fixed": false
+    },
+    "baseFriendship": 35,
+    "evYield": {
+        "hp": 2,
+		"special_attack": 1
+    },
+    "height": 14,
+    "weight": 589
+}

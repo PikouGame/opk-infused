@@ -1,0 +1,14 @@
+{
+  "algorithms": {
+    "spawn_range": 16.0
+  },
+  "biome": [
+    "#cobblemon:is_overworld"
+  ],
+  "species_data": {
+    "spawns_per_wave": 3,
+    "species": "growlithe",
+    "waves": 2
+  },
+  "rewards": {}
+}

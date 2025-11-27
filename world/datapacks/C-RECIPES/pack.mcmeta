@@ -1,0 +1,178 @@
+{
+	"pack": {
+		"description": "",
+		"pack_format": 34
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "icarus",
+				"path": "recipe/discords_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/zanzas_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/feathered_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/dragon_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/mechanical_feathered_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/mechanical_leather_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/white_mechanical_leather_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/light_wings.json"
+			},
+			{
+				"namespace": "icarus",
+				"path": "recipe/flandres_wings.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/power_band.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/power_belt.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/power_bracer.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/power_lens.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/power_weight.json"
+			},
+			{
+				"namespace": "cobblemon",
+				"path": "recipe/muscle_band.json"
+			},
+			{
+				"namespace": "zenith",
+				"path": "recipe/potion_charm.json"
+			},
+			{
+				"namespace": "endermanoverhaul",
+				"path": "recipe/corrupted_blade.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/handcuffs.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/handcuffs_key.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/police_baton.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/police_helmet.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/police_chestplate.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/police_leggings.json"
+			},
+			{
+				"namespace": "bsroleplay",
+				"path": "recipe/police_boots.json"
+			},
+			{
+				"namespace": "wherearemytms",
+				"path": "recipe/blank_tm.json"
+			},
+			{
+				"namespace": "wherearemytms",
+				"path": "recipe/exp_share.json"
+			},
+			{
+				"namespace": "immersive_aircraft",
+				"path": "recipe/biplanes.json"
+			},
+			{
+				"namespace": "immersive_aircraft",
+				"path": "recipe/airship.json"
+			},
+			{
+				"namespace": "create_cobblemon",
+				"path": "recipe/rare_candy.json"
+			},
+			{
+				"namespace": "create_cobblemon",
+				"path": "recipe/haunt_exp_quartz.json"
+			},
+			{
+				"namespace": "easy_mob_farm",
+				"path": "recipe/tier3_mob_farm_template.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/big_tv.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/frame.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/projector.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/remote.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/tv.json"
+			},
+			{
+				"namespace": "waterframes",
+				"path": "recipe/tv_box.json"
+			},
+			{
+				"namespace": "travelersbackpack",
+				"path": "recipe/warden.json"
+			},
+			{
+				"namespace": "travelersbackpack",
+				"path": "recipe/wither.json"
+			},
+			{
+				"namespace": "travelersbackpack",
+				"path": "recipe/spider.json"
+			},
+			{
+				"namespace": "travelersbackpack",
+				"path": "recipe/chicken.json"
+			},
+			{
+				"namespace": "travelersbackpack",
+				"path": "recipe/cow.json"
+			}
+		]
+   }
+}

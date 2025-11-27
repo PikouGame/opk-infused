@@ -1,0 +1,23 @@
+{
+  "algorithms": {
+    "spawn_range": 16.0
+  },
+  "biome": [
+    "#cobblemon:is_badlands",
+    "#cobblemon:is_volcanic",
+    "#cobblemon:is_nether_wasteland"
+  ],
+  "species_data": {
+    "spawns_per_wave": 3,
+    "species": "sizzlipede",
+    "waves": 2
+  },
+  "rewards": {
+    "item_rewards": [
+      "cobblemon:exp_candy_s"
+    ]
+  },
+  "level_algorithm": "min_max",
+  "min_pokemon_level": 6,
+  "max_pokemon_level": 31
+}

@@ -1,0 +1,300 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:flameplate",
+          "weight": 2,
+          "functions": [],
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:bastion_remnant",
+                  "minecraft:fortress"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:splashplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:buried_treasure",
+                  "minecraft:ocean_ruin_cold",
+                  "minecraft:ocean_ruin_warm",
+                  "minecraft:shipwreck",
+                  "minecraft:shipwreck_beached",
+                  "minecraft:monument"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:zapplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:trial_chambers"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:meadowplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:jungle_pyramid",
+                  "minecraft:pillager_outpost",
+                  "minecraft:village_plains"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:ironplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:mineshaft",
+                  "minecraft:stronghold",
+                  "minecraft:trial_chambers"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:pixieplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:end_city",
+                  "minecraft:stronghold"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:icicleplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:igloo",
+                  "minecraft:village_snowy",
+                  "minecraft:village_taiga"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:fistplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:mansion"
+                ],
+                "dimension": " "
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:toxicplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:swamp_hut",
+                  "minecraft:jungle_pyramid",
+                  "minecraft:ruined_portal_swamp"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:earthplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:village_desert",
+                  "minecraft:desert_pyramid",
+                  "minecraft:mineshaft",
+                  "minecraft:mineshaft_mesa"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:skyplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:mansion",
+                  "minecraft:village_plains"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:mindplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:end_city",
+                  "minecraft:stronghold"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:insectplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:swamp_hut",
+                  "minecraft:jungle_pyramid"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:stoneplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:mineshaft",
+                  "minecraft:mineshaft_mesa",
+                  "minecraft:village_desert",
+                  "minecraft:desert_pyramid"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:spookyplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:ancient_city",
+                  "minecraft:swamp_hut"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:dracoplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:end_city",
+                  "minecraft:ancient_city"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:dreadplate",
+          "weight": 2,
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": [
+                  "minecraft:ancient_city",
+                  "minecraft:swamp_hut"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.02
+        }
+      ]
+    }
+  ]
+}

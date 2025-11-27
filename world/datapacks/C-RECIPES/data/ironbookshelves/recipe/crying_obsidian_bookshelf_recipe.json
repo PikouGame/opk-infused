@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "O#O",
+    "#B#",
+    "O#O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "B": {
+      "item": "ironbookshelves:obsidian_bookshelf"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ironbookshelves:crying_obsidian_bookshelf"
+  }
+}

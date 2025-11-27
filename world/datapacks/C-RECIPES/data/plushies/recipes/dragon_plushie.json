@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A#A",
+    "BBB",
+    "ABA"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_head"
+    },
+    "A": {
+      "item": "dragonloot:dragon_scale"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "plushies:dragon_plushie",
+    "count": 1
+  }
+}

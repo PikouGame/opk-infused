@@ -1,0 +1,111 @@
+{
+  "school": "PHYSICAL_RANGED",
+  "range": 20,
+  "tier": 3,
+  "learn": {},
+
+  "active": {
+    "scroll": {},
+    "cast": {
+      "duration": 0.0,
+      "animation": "spell_engine:archery_pull",
+      "sound": {
+        "id": "archers:bow_pull"
+      }
+    }
+  },
+
+  "target": {
+    "type": "AIM",
+    "aim": { }
+  },
+
+  "release": {
+    "animation": "spell_engine:archery_release",
+    "sound": {
+      "id": "item.crossbow.shoot"
+    }
+  },
+
+  "deliver": {
+    "type": "PROJECTILE",
+    "projectile": {
+      "launch_properties": {
+        "velocity": 4.5
+      },
+      "projectile": {
+        "client_data": {
+          "travel_particles": [
+            {
+              "particle_id": "campfire_cosy_smoke",
+              "shape": "LINE",
+              "origin": "CENTER",
+              "rotation": "LOOK",
+              "roll_offset": 180,
+              "roll": 10,
+              "count": 20,
+              "min_speed": 0.2,
+              "max_speed": 0.22
+            }
+          ],
+          "model": {
+            "model_id": "archers_expansion:projectile/regular_arrow",
+            "scale": 1.5
+          }
+        }
+      }
+    }
+  },
+
+  "impacts": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 1.5,
+          "knockback": 0
+        },
+        "particles": [
+          {
+            "particle_id": "campfire_cosy_smoke",
+            "shape": "SPHERE",
+            "origin": "CENTER",
+            "count": 5,
+            "min_speed": 0,
+            "max_speed": 0.1
+          }
+        ],
+        "sound": {
+          "id": "archers_expanison:point_blank_shot"
+        }
+      }
+    },
+    {
+      "target_conditions": [
+        {
+          "entity_type": "#c:bosses",
+          "allow_action": true
+        }
+      ],
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "apply_mode": "SET",
+          "duration": 1,
+          "amplifier": 2,
+          "effect_id": "archers_expansion:point_blank_shot",
+          "show_particles": false
+        }
+      }
+    }
+  ],
+  "cost": {
+    "exhaust" : 0.3,
+    "item": {
+      "id": "arrow"
+    },
+    "cooldown": {
+      "duration": 16
+    }
+  }
+}

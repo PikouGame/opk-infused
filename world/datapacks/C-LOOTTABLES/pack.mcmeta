@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": ""
+  },
+	"filter": {
+		"block": [
+			{
+				"namespace": "cobblemon",
+				"path": "loot_table/injection/chests"
+			},
+			{
+				"namespace": "simpletms",
+				"path": "loot_table/injection/chests"
+			}
+		]
+   }
+}

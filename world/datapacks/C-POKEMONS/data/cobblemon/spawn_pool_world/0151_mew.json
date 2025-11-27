@@ -1,0 +1,44 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "mew-1",
+      "pokemon": "mew",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "55-60",
+      "weight": 0.05,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [ 
+          "#cobblemon:is_floral", 
+          "#cobblemon:is_jungle", 
+          "#cobblemon:is_savana" 
+        ],
+        "timeRange": "noon",
+        "isRaining": false
+      }
+    },
+    {
+      "id": "mew-2",
+      "pokemon": "mew",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.05,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": [ 
+          "#cobblemon:is_forest"
+         ],
+        "timeRange": "noon",
+      "neededBaseBlocks": [
+          "promenade:asphalt",
+          "minecraft:smooth_basalt"
+      ]
+      }
+    }
+  ]
+}

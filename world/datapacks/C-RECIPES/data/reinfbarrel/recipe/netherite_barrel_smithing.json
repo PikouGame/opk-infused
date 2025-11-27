@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_block"
+  },
+  "base": {
+    "item": "reinfbarrel:diamond_barrel"
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfbarrel:netherite_barrel"
+  },
+  "template": {
+	"item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

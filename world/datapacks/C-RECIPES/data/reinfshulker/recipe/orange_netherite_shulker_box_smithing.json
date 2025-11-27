@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_block"
+  },
+  "base": {
+    "item": "reinfshulker:orange_diamond_shulker_box"
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfshulker:orange_netherite_shulker_box"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

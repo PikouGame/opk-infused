@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:ender_pearls"
+    },
+    "B": {
+      "item": "minecraft:redstone_block"
+    },
+    "C": {
+      "item": "travelersbackpack:blank_upgrade"
+    },
+    "D": {
+      "item": "minecraft:lapis_block"
+    },
+    "E": {
+      "item": "minecraft:iron_block"
+    },
+      "F": {
+      "item": "artifacts:universal_attractor"
+    }
+  },
+  "pattern": [
+    "AFA",
+    "BCD",
+    "BED"
+  ],
+  "result": {
+    "count": 1,
+    "id": "travelersbackpack:magnet_upgrade"
+  }
+}

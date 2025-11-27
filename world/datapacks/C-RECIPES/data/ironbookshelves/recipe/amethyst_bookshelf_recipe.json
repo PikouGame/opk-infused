@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_block"
+    },
+    "B": {
+      "tag": "c:bookshelves"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ironbookshelves:amethyst_bookshelf"
+  }
+}

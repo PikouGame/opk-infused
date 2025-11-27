@@ -1,0 +1,73 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "piloswine-1",
+            "pokemon": "piloswine",
+            "presets": [
+                "natural",
+				"wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "33-45",
+            "weight": 0.9,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_tundra"
+                ]
+            }
+        },
+        {
+            "id": "piloswine-2",
+            "pokemon": "piloswine",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "33-45",
+            "weight": 30.0,
+          "condition": {
+            "canSeeSky": true,
+            "biomes": [
+              "#cobblemon:is_glacio"
+            ]
+          }
+        },
+        {
+        "id": "piloswine-astra-1",
+        "pokemon": "piloswine",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "33-45",
+        "weight": 50.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#cobblemon:is_glacio_peaks",
+            "#cobblemon:is_glacio_barrens"
+          ]
+         }
+        },
+        {
+        "id": "piloswine-astra-2",
+        "pokemon": "piloswine",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "33-45",
+        "weight": 25.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#cobblemon:is_mars_polar"
+           ]
+         }
+       }
+    ]
+}

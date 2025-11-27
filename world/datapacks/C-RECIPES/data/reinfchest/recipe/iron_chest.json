@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["MMM", "MCM", "MMM"],
+  "key": {
+    "C": {
+      "item": "reinfchest:copper_chest"
+    },
+    "M": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfchest:iron_chest"
+  }
+}

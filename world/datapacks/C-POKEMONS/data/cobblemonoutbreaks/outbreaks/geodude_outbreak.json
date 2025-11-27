@@ -1,0 +1,22 @@
+{
+  "algorithms": {
+    "spawn_range": 20.0
+  },
+  "biome": [
+    "#cobblemon:is_mountain",
+    "#cobblemon:is_overworld"
+  ],
+  "species_data": {
+    "spawns_per_wave": 4,
+    "species": "geodude",
+    "waves": 3
+  },
+  "rewards": {
+    "item_rewards": [
+      "cobblemon:exp_candy_s"
+    ]
+  },
+  "level_algorithm": "min_max",
+  "min_pokemon_level": 5,
+  "max_pokemon_level": 30
+}

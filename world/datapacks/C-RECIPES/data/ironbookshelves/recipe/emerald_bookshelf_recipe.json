@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "emerald_block"
+    },
+    "B": {
+      "item": "ironbookshelves:diamond_bookshelf"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ironbookshelves:emerald_bookshelf"
+  }
+}

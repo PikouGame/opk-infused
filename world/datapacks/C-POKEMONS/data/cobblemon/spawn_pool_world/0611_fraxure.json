@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "fraxure-1",
+            "pokemon": "fraxure",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "20-31",
+            "weight": 2,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_mountain",
+                    "#cobblemon:is_highlands"
+                ]
+			}
+		}
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "spawns": [
+        {
+            "id": "bramblin-1",
+            "pokemon": "bramblin",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-25",
+            "weight": 2,
+            "condition": {
+                "biomes": ["#cobblemon:is_desert", "#cobblemon:is_badlands"]
+            }
+        },
+        {
+            "id": "brambleghast-1",
+            "pokemon": "brambleghast",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "50-56",
+            "weight": 5,
+            "condition": {
+                "biomes": ["#cobblemon:is_desert", "#cobblemon:is_badlands"]
+            }
+        }
+    ]
+}

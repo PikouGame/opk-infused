@@ -1,0 +1,1802 @@
+{
+  "constitution_5": {
+    "skills": {
+      "constitution": 5
+    },
+    "blocks": ["paladins:monk_workbench"]
+  },
+  "constitution_4": {
+    "skills": {
+      "constitution": 4
+    },
+    "items": [
+    "paladins:paladin_armor_head",
+    "paladins:paladin_armor_chest",
+    "paladins:paladin_armor_legs",
+    "paladins:paladin_armor_feet"
+    ]
+  },
+  "constitution_8": {
+    "skills": {
+      "constitution": 8
+    },
+    "items": [
+    "jewelry:sapphire_ring",
+    "jewelry:sapphire_necklace"
+    ]
+  },
+  "constitution_10": {
+    "skills": {
+      "constitution": 10
+    },
+    "items": [
+    "paladins:crusader_armor_head",
+    "paladins:crusader_armor_chest",
+    "paladins:crusader_armor_legs",
+    "paladins:crusader_armor_feet"
+    ]
+  },
+  "constitution_16": {
+    "skills": {
+      "constitution": 16
+    },
+    "items": [
+    "jewelry:netherite_sapphire_ring",
+    "jewelry:netherite_sapphire_necklace"
+    ]
+  },
+  "constitution_20": {
+    "skills": {
+      "constitution": 20
+    },
+    "items": [
+    "paladins:netherite_crusader_armor_head",
+    "paladins:netherite_crusader_armor_chest",
+    "paladins:netherite_crusader_armor_legs",
+    "paladins:netherite_crusader_armor_feet"
+    ]
+  },
+  "constitution_32": {
+    "skills": {
+      "constitution": 32
+    },
+    "items": [
+    "classicscapesgear:paladin_helmet",
+    "classicscapesgear:paladin_chestplate",
+    "classicscapesgear:paladin_leggings",
+    "classicscapesgear:paladin_boots"
+    ]
+  },
+  "constitution_40": {
+    "skills": {
+      "constitution": 40
+    },
+    "items": [
+    "jewelry:unique_tank_ring",
+    "jewelry:unique_tank_necklace",
+    "travelersbackpack:creeper"
+    ],
+    "blocks": [
+    "travelersbackpack:creeper"
+    ]
+  },
+  "melee_1": {
+    "skills": {
+      "melee": 1
+    },
+    "items": [
+    "minecraft:stone_sword",
+    "rogues:flint_dagger",
+    "archers:flint_spear",
+    "aether:candy_cane_sword",
+    "aether:holystone_sword"
+    ]
+  },
+  "melee_4": {
+    "skills": {
+      "melee": 4
+    },
+    "items": [
+	"minecraft:gold_sword",
+	"the_bumblezone:stinger_spear",
+	"archers:golden_spear",
+	"rogues:golden_sickle",
+	"rogues:golden_dagger",
+	"rogues:golden_glaive"
+    ]
+  },
+  "melee_5": {
+    "skills": {
+      "melee": 5
+    },
+    "items": [
+   "minecraft:iron_sword",
+   "aether:zanite_sword",
+   "aether:pig_slayer",
+   "archers:iron_spear",
+   "rogues:iron_sickle",
+   "rogues:iron_dagger",
+   "rogues:iron_glaive",
+   "rogues:warrior_armor_head",
+   "rogues:warrior_armor_chest",
+   "rogues:warrior_armor_legs",
+   "rogues:warrior_armor_feet"
+    ]
+  },
+  "melee_6": {
+    "skills": {
+      "melee": 6
+    },
+    "items": [
+   "winterly:cryomarble_sword"
+    ]
+  },
+  "melee_10": {
+    "skills": {
+      "melee": 10
+      
+    },
+    "items": [
+	"rogues:diamond_dagger",
+	"minecraft:diamond_sword",
+	"archers:diamond_spear",
+    "rogues:diamond_glaive",
+	"rogues:diamond_sickle",
+	"betternether:cincinnasite_sword"
+    ]
+  },
+  "melee_15": {
+    "skills": {
+      "melee": 15
+    },
+    "items": [
+	"aether:gravitite_sword",
+	"aether:flaming_sword",
+	"aether:lightning_sword",
+	"aether:holy_sword",
+	"aether:vampire_blade",
+	"aether:valkyrie_lance",
+	"deeperdarker:resonarium_sword",
+	"rogues:berserker_armor_head",
+	"rogues:berserker_armor_chest",
+	"rogues:berserker_armor_legs",
+	"rogues:berserker_armor_feet"
+    ]
+  },
+  "melee_18": {
+    "skills": {
+        "melee": 18
+    },
+    "items": [
+ "arsenal:unique_dagger_1",
+ "arsenal:unique_dagger_2",
+ "arsenal:unique_dagger_sw",
+ "rogues:ruby_dagger",
+ "rogues:aether_dagger"
+    
+     ]
+    },
+  "melee_20": {
+  "skills": {
+      "melee": 20
+  },
+  "items": [
+  "betternether:nether_ruby_sword",
+  "illagerinvasion:platinum_infused_hatchet",
+  "rogues:netherite_sickle",
+  "rogues:netherite_berserker_armor_head",
+  "rogues:netherite_berserker_armor_chest",
+  "rogues:netherite_berserker_armor_legs",
+  "rogues:netherite_berserker_armor_feet"
+   ]
+  },
+  "melee_24": {
+    "skills": {
+      "melee": 24
+    },
+  "items": [
+    "minecraft:netherite_sword",
+	"archers:netherite_spear",
+	"travelersbackpack:blaze",
+	"travelersbackpack:ghast",
+	"travelersbackpack:magma_cube"
+  ],
+  "blocks": [
+  "travelersbackpack:blaze",
+  "travelersbackpack:ghast",
+  "travelersbackpack:magma_cube"
+    ]
+  },
+  "melee_26": {
+    "skills": {
+      "melee": 26
+    },
+  "items": [
+"arsenal:unique_sickle_1",
+"arsenal:unique_sickle_2",
+"arsenal:unique_sickle_sw",
+"rogues:ruby_sickle",
+"rogues:aether_sickle",
+"betternether:cincinnasite_sword_diamond"
+   ]
+  },
+  "melee_27": {
+    "skills": {
+      "melee": 27
+    },
+  "items": [
+"archers:ruby_spear",
+"archers:aether_spear"
+   ]
+  },
+  "melee_28": {
+    "skills": {
+      "melee": 28
+    },
+  "items": [
+"deeperdarker:warden_sword",
+"rogues:netherite_glaive",
+"arsenal:unique_spear_1",
+"arsenal:unique_spear_2",
+"arsenal:unique_spear_sw"
+
+   ]
+  },
+  "melee_32": {
+    "replace": false,
+    "skills": {
+      "melee": 32
+    },
+    "items": [
+  "arsenal:unique_glaive_1",
+  "arsenal:unique_glaive_2",
+  "arsenal:unique_glaive_sw",
+  "rogues:ruby_glaive",
+  "rogues:aether_glaive",
+  "bosses_of_mass_destruction:earthdive_spear",
+    "travelersbackpack:wither",
+    "travelersbackpack:warden"
+    ],
+  "blocks": [
+    "travelersbackpack:wither",
+    "travelersbackpack:warden"
+    ]
+   },
+   "melee_36": {
+    "replace": false,
+    "skills": {
+      "melee": 36
+    },
+    "items": [
+"betternether:flaming_ruby_sword",
+"dragonloot:dragon_sword"
+    ]
+   },
+  "melee_40": {
+    "replace": false,
+    "skills": {
+      "melee": 40
+    },
+    "items": [
+"arsenal:unique_double_axe_1",
+"arsenal:unique_double_axe_2",
+"arsenal:unique_double_axe_sw"
+    ]
+   },
+  "melee_50": {
+    "skills": {
+      "melee": 50
+    },
+    "items": [
+    "arsenal:unique_claymore_1",
+    "arsenal:unique_claymore_2",
+    "arsenal:unique_claymore_sw"
+    ]
+  },
+  "defense_1": {
+    "skills": {
+      "defense": 1
+    },
+    "items": [
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "aether:chainmail_gloves",
+    "the_bumblezone:stingless_bee_helmet_1",
+    "the_bumblezone:stingless_bee_helmet_2",
+    "the_bumblezone:bumble_bee_chestplate_1",
+    "the_bumblezone:bumble_bee_chestplate_2",
+    "the_bumblezone:bumble_bee_chestplate_trans_1",
+    "the_bumblezone:bumble_bee_chestplate_trans_2",
+    "the_bumblezone:honey_bee_leggings_1",
+    "the_bumblezone:honey_bee_leggings_2",
+    "the_bumblezone:carpenter_bee_boots_1",
+    "the_bumblezone:carpenter_bee_boots_2",
+    "travelersbackpack:bee",
+    "paladins:stone_claymore",
+    "paladins:stone_great_hammer",
+    "rogues:stone_double_axe"
+    ],
+    "blocks": [
+    "travelersbackpack:bee"
+    ]
+  },
+  "defense_4": {
+    "skills": {
+      "defense": 4
+    },
+    "items": [
+    "minecraft:turtle_helmet",
+    "minecraft:golden_helmet",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_leggings",
+    "minecraft:golden_boots",
+    "aether:golden_gloves",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "aether:iron_gloves",
+    "minecraft:shield",
+    "paladins:iron_kite_shield",
+    "paladins:golden_kite_shield",
+    "betterend:thallasium_helmet",
+    "betterend:thallasium_chestplate",
+    "betterend:thallasium_leggings",
+    "betterend:thallasium_boots",
+    "aether:neptune_helmet",
+    "aether:neptune_chestplate",
+    "aether:neptune_leggings",
+    "aether:neptune_boots",
+    "aether:neptune_gloves",
+    "paladins:iron_claymore",
+    "paladins:iron_great_hammer",
+    "paladins:iron_mace",
+    "rogues:iron_double_axe",
+    "betterend:iron_hammer",
+    "paladins:golden_claymore",
+    "paladins:golden_great_hammer",
+    "paladins:golden_mace",
+    "betterend:golden_hammer",
+    "rogues:golden_double_axe",
+    "betterend:thallasium_hammer",
+    "travelersbackpack:iron",
+    "travelersbackpack:gold"
+  ],
+  "blocks": [
+    "travelersbackpack:iron",
+    "travelersbackpack:gold"
+    ],
+    "enchantments": {
+    "minecraft:protection": 1,
+    "minecraft:fire_protection": 1,
+    "minecraft:projectile_protection": 1,
+    "minecraft:blast_protection": 1,
+    "minecraft:feather_falling": 1
+    }
+  },
+  "defense_6": {
+    "skills": {
+      "defense": 6
+    },
+    "items": [
+    "goated:barbaric_helmet"
+    ]
+  },
+  "defense_8": {
+    "skills": {
+      "defense": 8
+    },
+    "items": [
+    "aether:zanite_helmet",
+    "aether:zanite_chestplate",
+    "aether:zanite_leggings",
+    "aether:zanite_boots",
+    "aether:zanite_gloves"
+    ],
+    "enchantments": {
+      "minecraft:thorns": 1,
+      "minecraft:fire_protection": 2,
+      "minecraft:feather_falling": 2,
+      "minecraft:projectile_protection": 2,
+      "minecraft:blast_protection": 2,
+      "minecraft:protection": 2
+    }
+  },
+  "defense_10": {
+    "skills": {
+      "defense": 10
+    },
+    "items": [
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_boots",
+    "aether:diamond_gloves",
+    "paladins:diamond_kite_shield",
+    "paladins:diamond_claymore",
+    "paladins:diamond_great_hammer",
+    "paladins:diamond_mace",
+    "rogues:diamond_double_axe",
+    "betterend:terminite_helmet",
+    "betterend:terminite_chestplate",
+    "betterend:terminite_leggings",
+    "betterend:terminite_boots",
+    "betterend:terminite_hammer",
+    "deeperdarker:resonarium_helmet",
+    "deeperdarker:resonarium_chestplate",
+    "deeperdarker:resonarium_leggings",
+    "deeperdarker:resonarium_boots"
+    ],
+  "blocks": [
+    "travelersbackpack:diamond"
+    ],
+    "enchantments": {
+      "minecraft:thorns": 2
+    }
+  },
+  "defense_16": {
+    "skills": {
+      "defense": 16
+    },
+    "items": [
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_boots",
+    "aether:netherite_gloves",
+    "paladins:netherite_kite_shield",
+    "paladins:netherite_claymore",
+    "paladins:netherite_great_hammer",
+    "paladins:netherite_mace",
+    "betterend:netherite_hammer",
+    "rogues:netherite_double_axe",
+    "betternether:cincinnasite_helmet",
+    "betternether:cincinnasite_chestplate",
+    "betternether:cincinnasite_leggings",
+    "betternether:cincinnasite_boots",
+    "aether:obsidian_helmet",
+    "aether:obsidian_chestplate",
+    "aether:obsidian_leggings",
+    "aether:obsidian_boots",
+    "aether:obsidian_gloves",
+    "travelersbackpack:netherite"
+    ],
+    "blocks": [
+    "travelersbackpack:netherite"
+    ],
+    "enchantments": {
+      "minecraft:fire_protection": 3,
+      "minecraft:projectile_protection": 3,
+      "minecraft:blast_protection": 3,
+      "minecraft:protection": 3,
+      "minecraft:feather_falling": 3
+    }
+  },
+  "defense_20": {
+    "skills": {
+      "defense": 20
+    },
+    "items": [
+    "minecraft:mace",
+    "aether:gravitite_helmet",
+    "aether:gravitite_chestplate",
+    "aether:gravitite_leggings",
+    "aether:gravitite_boots",
+    "aether:gravitite_gloves",
+    "paladins:ruby_kite_shield",
+    "aether:phoenix_helmet",
+    "aether:phoenix_chestplate",
+    "aether:phoenix_leggings",
+    "aether:phoenix_boots",
+    "aether:phoenix_gloves"
+    ],
+    "enchantments": {
+    "minecraft:fire_protection": 4,
+    "minecraft:projectile_protection": 4,
+    "minecraft:blast_protection": 4,
+    "minecraft:feather_falling": 4,
+    "minecraft:thorns": 3,
+    "minecraft:protection": 4
+    }
+  },
+  "defense_32": {
+    "skills": {
+      "defense": 32
+    },
+    "items": [
+    "betternether:nether_ruby_helmet",
+    "betternether:nether_ruby_chestplate",
+    "betternether:nether_ruby_leggings",
+    "betternether:nether_ruby_boots",
+    "paladins:ruby_claymore",
+    "paladins:ruby_great_hammer",
+    "paladins:ruby_mace",
+    "rogues:ruby_double_axe"
+    ]  
+  },
+  "defense_40": {
+    "skills": {
+      "defense": 40
+    },
+    "items": [
+    "betterend:aeternium_helmet",
+    "betterend:aeternium_chestplate",
+    "betterend:aeternium_leggings",
+    "betterend:aeternium_boots",
+    "betterend:aeternium_hammer",
+    "paladins:aeternium_claymore",
+    "paladins:aeternium_great_hammer",
+    "paladins:aeternium_mace",
+    "rogues:aeternium_double_axe",
+    "paladins:aeternium_kite_shield",
+    "paladins:aether_kite_shield",
+    "paladins:aether_claymore",
+    "paladins:aether_mace",
+    "paladins:aether_great_hammer",
+    "rogues:aether_double_axe"
+    ]
+  },
+  "defense_48": {
+    "skills": {
+      "defense": 48
+    },
+    "items": [
+      "deeperdarker:warden_helmet",
+      "deeperdarker:warden_chestplate",
+      "deeperdarker:warden_leggings",
+      "deeperdarker:warden_boots",
+      "betterend:crystalite_helmet",
+      "betterend:crystalite_chestplate",
+      "betterend:crystalite_leggings",
+      "betterend:crystalite_boots",
+      "betterend:elytra_crystalite"
+    ]
+  },
+  "defense_50": {
+    "skills": {
+      "defense": 50
+    },
+    "items": [
+      "betternether:flaming_ruby_helmet",
+      "betternether:flaming_ruby_chestplate",
+      "betternether:flaming_ruby_leggings",
+      "betternether:flaming_ruby_boots",
+      "dragonloot:dragon_helmet",
+      "dragonloot:dragon_chestplate",
+      "dragonloot:upgraded_dragon_chestplate",
+      "dragonloot:dragon_leggings",
+      "dragonloot:dragon_boots"
+     ],
+    "blocks": [
+      "travelersbackpack:dragon"
+
+    ]
+  },
+  "archery_1": {
+    "skills": {
+      "archery": 1
+    },
+    "entities": [
+    "immersive_aircraft:gyrodyne",
+    "immersive_aircraft:quadrocopter"
+    ],
+    "items": [
+      "enderzoology:hunting_bow",
+      "minecraft:bow"
+    ],
+    "enchantments": {
+      "minecraft:impaling": 1,
+      "minecraft:power": 1,
+      "minecraft:piercing": 1
+    }
+  },
+  "archery_2": {
+    "skills": {
+      "archery": 2
+    },
+    "items": [
+      "minecraft:crossbow"
+      
+    ],
+    "enchantments": {
+      "minecraft:impaling": 2,
+      "minecraft:quick_charge": 1,
+      "minecraft:loyalty": 1,
+      "minecraft:riptide": 1
+    }
+  },
+  "archery_3": {
+    "skills": {
+      "archery": 3
+    },
+    "entities": [
+    "immersive_aircraft:biplane",
+    "immersive_aircraft:airship"
+    ],
+    "blocks": [
+      "minecraft:fletching_table"
+    ],
+    "items": [
+      "archers:composite_longbow",
+      "musketmod:musket_with_bayonet",
+      "musketmod:musket_with_scope",
+      "musketmod:musket"
+    ],
+    "enchantments": {
+      "minecraft:power": 2
+    }
+  },
+  "archery_4": {
+    "skills": {
+      "archery": 4
+    },
+    "items": [
+      "minecraft:trident",
+      "aether:phoenix_bow"
+    ]
+  },
+  "archery_5": {
+    "skills": {
+      "archery": 5
+    },
+    "blocks": [
+    "archers:archers_workbench"
+    ]
+  },
+  "archery_8": {
+    "skills": {
+      "archery": 8
+    },
+    "items": [
+    "archers:mechanic_shortbow",
+    "archers:rapid_crossbow"
+    ]
+  },
+  "archery_10": {
+    "skills": {
+      "archery": 10
+    },
+    "items": [
+    "archers:archer_armor_head",
+    "archers:archer_armor_chest",
+    "archers:archer_armor_legs",
+    "archers:archer_armor_feet",
+    "archers:heavy_crossbow",
+    "archers:royal_longbow",
+    "archers_expansion:tundra_hunter_head",
+    "archers_expansion:tundra_hunter_chest",
+    "archers_expansion:tundra_hunter_legs",
+    "archers_expansion:tundra_hunter_feet",
+    "archers_expansion:war_archer_head",
+    "archers_expansion:war_archer_chest",
+    "archers_expansion:war_archer_legs",
+    "archers_expansion:war_archer_feet",
+    "archers_expansion:deadeye_head",
+    "archers_expansion:deadeye_chest",
+    "archers_expansion:deadeye_legs",
+    "archers_expansion:deadeye_feet"
+    ],
+    "enchantments": {
+      "minecraft:multishot": 1,
+      "minecraft:loyalty": 2,
+      "minecraft:impaling": 3,
+      "minecraft:power": 3,
+      "minecraft:quick_charge": 2,
+      "minecraft:piercing": 2,
+      "minecraft:punch": 1
+    }
+  },
+  "archery_16": {
+    "skills": {
+      "archery": 16
+    },
+    "entities": [
+      "immersive_aircraft:cargo_airship"
+    ],
+    "items": [
+      "archers:netherite_shortbow",
+      "archers:netherite_longbow",
+      "archers:netherite_rapid_crossbow",
+      "archers:netherite_heavy_crossbow",
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_legs",
+      "archers:ranger_armor_feet",
+      "archers_expansion:netherite_tundra_hunter_head",
+      "archers_expansion:netherite_tundra_hunter_chest",
+      "archers_expansion:netherite_tundra_hunter_legs",
+      "archers_expansion:netherite_tundra_hunter_feet",
+      "archers_expansion:netherite_war_archer_head",
+      "archers_expansion:netherite_war_archer_chest",
+      "archers_expansion:netherite_war_archer_legs",
+      "archers_expansion:netherite_war_archer_feet",
+      "archers_expansion:netherite_deadeye_head",
+      "archers_expansion:netherite_deadeye_chest",
+      "archers_expansion:netherite_deadeye_legs",
+      "archers_expansion:netherite_deadeye_feet"
+    ],
+    "enchantments": {
+      "minecraft:riptide": 2,
+      "minecraft:power": 4
+    }
+  },
+  "archery_24": {
+    "skills": {
+      "archery": 24
+    },
+    "items": [
+    "archers:netherite_ranger_armor_head",
+    "archers:netherite_ranger_armor_chest",
+    "archers:netherite_ranger_armor_legs",
+    "archers:netherite_ranger_armor_feet"
+    ],
+    "enchantments": {
+      "minecraft:flame": 1,
+      "enderzoology:withering": 1,
+      "minecraft:channeling": 1,
+      "minecraft:impaling": 4,
+      "minecraft:piercing": 3
+    }
+  },
+  "archery_32": {
+    "skills": {
+      "archery": 32
+    },
+    "items": [
+    "archers:ruby_rapid_crossbow",
+    "archers:ruby_heavy_crossbow",
+    "archers:aether_longbow",
+    "archers:aether_rapid_crossbow",
+    "archers:aether_heavy_crossbow"
+    ],
+    "enchantments": {
+      "minecraft:riptide": 3,
+      "minecraft:loyalty": 3,
+      "minecraft:punch": 2,
+      "minecraft:quick_charge": 3,
+      "minecraft:infinity": 1
+    }
+  },
+  "archery_48": {
+    "skills": {
+      "archery": 48
+    },
+    "entities": [
+    "immersive_aircraft:warship"
+    ],
+    "items": [
+    "dragonloot:dragon_bow",
+    "dragonloot:dragon_crossbow",
+    "dragonloot:dragon_trident"
+    ]
+  },
+  "archery_50": {
+    "skills": {
+      "archery": 50
+    },
+    "items": [
+    "archers:crystal_shortbow",
+    "archers:crystal_longbow"
+    ],
+    "enchantments": {
+      "minecraft:impaling": 5,
+      "minecraft:power": 5,
+      "minecraft:piercing": 4
+    }
+  },
+  "agility_1": {
+    "skills": {
+      "agility": 1
+    }
+  },
+  "agility_2": {
+    "skills": {
+      "agility": 2
+    },
+    "blocks": [
+      "travelersbackpack:spider"
+    ],
+    "crafting": [],
+    "entities": [],
+    "items": [
+    "usefulslime:slime_helmet",
+    "usefulslime:slime_chestplate",
+    "usefulslime:slime_leggings",
+    "usefulslime:slime_boots",
+    "minecraft:brush",
+    "betterarcheology:iron_brush"
+
+  
+    
+    ]
+  },
+  "agility_3": {
+    "skills": {
+      "agility": 3
+    },
+    "blocks": [
+    "minecraft:cartography_table",
+    "travelersbackpack:ocelot"
+    ],
+    "items": [
+    "minecraft:recovery_compass",
+    "betterarcheology:diamond_brush",
+    "travelersbackpack:ocelot"
+    ]
+  },
+  "agility_10": {
+    "skills": {
+      "agility": 10
+    },
+    "items": [
+    "rogues:rogue_armor_head",
+    "rogues:rogue_armor_chest",
+    "rogues:rogue_armor_legs",
+    "rogues:rogue_armor_feet",
+    "betterarcheology:netherite_brush"
+    ]
+  },
+  "agility_16": {
+    "skills": {
+      "agility": 16
+    },
+    "items": [
+    "minecraft:elytra",
+    "rogues:assassin_armor_head",
+    "rogues:assassin_armor_chest",
+    "rogues:assassin_armor_legs",
+    "rogues:assassin_armor_feet"
+    ]
+  },
+  "agility_24": {
+    "skills": {
+      "agility": 24
+    },
+    "items": [
+    "rogues:netherite_assassin_armor_head",
+    "rogues:netherite_assassin_armor_chest",
+    "rogues:netherite_assassin_armor_legs",
+    "rogues:netherite_assassin_armor_feet",
+    "aether:valkyrie_helmet",
+    "aether:valkyrie_chestplate",
+    "aether:valkyrie_leggings",
+    "aether:valkyrie_boots",
+    "aether:valkyrie_gloves"
+    ]
+  },
+  "agility_32": {
+    "skills": {
+      "agility": 32
+    },
+    "items": [
+    "icarus:white_dragon_wings",
+    "icarus:orange_dragon_wings",
+    "icarus:magenta_dragon_wings",
+    "icarus:light_blue_dragon_wings",
+    "icarus:yellow_dragon_wings",
+    "icarus:lime_dragon_wings",
+    "icarus:pink_dragon_wings",
+    "icarus:gray_dragon_wings",
+    "icarus:light_gray_dragon_wings",
+    "icarus:cyan_dragon_wings",
+    "icarus:purple_dragon_wings",
+    "icarus:blue_dragon_wings",
+    "icarus:brown_dragon_wings",
+    "icarus:green_dragon_wings",
+    "icarus:red_dragon_wings",
+    "icarus:black_dragon_wings",
+    "icarus:white_mechanical_feathered_wings",
+    "icarus:magenta_mechanical_feathered_wings",
+    "icarus:light_blue_mechanical_feathered_wings",
+    "icarus:orange_mechanical_feathered_wings",
+    "icarus:yellow_mechanical_feathered_wings",
+    "icarus:lime_mechanical_feathered_wings",
+    "icarus:pink_mechanical_feathered_wings",
+    "icarus:gray_mechanical_feathered_wings",
+    "icarus:light_gray_mechanical_feathered_wings",
+    "icarus:cyan_mechanical_feathered_wings",
+    "icarus:purple_mechanical_feathered_wings",
+    "icarus:blue_mechanical_feathered_wings",
+    "icarus:brown_mechanical_feathered_wings",
+    "icarus:green_mechanical_feathered_wings",
+    "icarus:red_mechanical_feathered_wings",
+    "icarus:black_mechanical_feathered_wings",
+    "icarus:white_light_wings",
+    "icarus:orange_light_wings",
+    "icarus:magenta_light_wings",
+    "icarus:light_blue_light_wings",
+    "icarus:yellow_light_wings",
+    "icarus:lime_light_wings",
+    "icarus:pink_light_wings",
+    "icarus:gray_light_wings",
+    "icarus:light_gray_light_wings",
+    "icarus:cyan_light_wings",
+    "icarus:purple_light_wings",
+    "icarus:blue_light_wings",
+    "icarus:brown_light_wings",
+    "icarus:green_light_wings",
+    "icarus:red_light_wings",
+    "icarus:black_light_wings",
+    "icarus:flandres_wings",
+    "icarus:discords_wings",
+    "icarus:zanzas_wings"
+    ]
+  },
+  "magic_1": {
+    "skills": {
+      "magic": 1
+    },
+    "blocks": [
+    "minecraft:enchanting_table",
+    "travelersbackpack:bookshelf"
+    ],
+    "items": [
+    "wizards:wand_novice",
+    "wizards:staff_wizard",
+    "elemental_wizards_rpg:wand_kelp",
+    "elemental_wizards_rpg:wand_feather",
+    "paladins:acolyte_wand",
+    "aether:nature_staff",
+    "elemental_wizards_rpg:staff_elemental",
+    "elemental_wizards_rpg:wand_clay"
+    ],
+    "enchantments": {
+      "minecraft:respiration": 1,
+      "minecraft:soul_speed": 1,
+      "minecraft:depth_strider": 1
+    }
+  },
+  "magic_3": {
+    "skills": {
+      "magic": 3
+    },
+    "items": [
+      "paladins:priest_robe_head",
+      "paladins:priest_robe_chest",
+      "paladins:priest_robe_legs",
+      "paladins:priest_robe_feet",
+      "wizards:wizard_robe_head",
+      "wizards:wizard_robe_chest",
+      "wizards:wizard_robe_legs",
+      "wizards:wizard_robe_feet",
+      "aether:cloud_staff"
+    ],
+    "enchantments": {
+      "minecraft:swift_sneak": 1,
+      "minecraft:aqua_affinity": 1,
+      "minecraft:depth_strider": 1
+    }
+  },
+  "magic_4": {
+    "skills": {
+      "magic": 4
+    },
+    "enchantments": {
+      "minecraft:swift_sneak": 2,
+      "minecraft:depth_strider": 2,
+      "minecraft:respiration": 2,
+      "minecraft:frost_walker": 1,
+      "spell_power:critical_chance": 1,
+      "spell_power:critical_damage": 1,
+      "spell_power:energize": 1,
+      "spell_power:magic_protection": 1,
+      "spell_power:soulfrost": 1,
+      "spell_power:spell_power": 1,
+      "spell_power:sunfire": 1
+    }
+  },
+  "magic_5": {
+    "skills": {
+      "magic": 5
+    },
+    "blocks": [
+      "spell_engine:spell_binding",
+      "disenchanting_table:disenchanting_table"
+    ],
+    "items": [
+      "paladins:diamond_holy_staff"
+    ],
+    "enchantments": {
+      "minecraft:soul_speed": 3,
+      "minecraft:swift_sneak": 3,
+      "minecraft:depth_strider": 3,
+      "minecraft:respiration": 3
+    }
+  },
+  "magic_8": {
+    "skills": {
+      "magic": 8
+    },
+    "items": [
+      "paladins:prior_robe_head",
+      "paladins:prior_robe_chest",
+      "paladins:prior_robe_legs",
+      "paladins:prior_robe_feet",
+      "paladins:holy_wand",
+      "paladins:holy_staff",
+      "aether:hammer_of_kingbdogz"
+    ],
+    "enchantments": {
+      "minecraft:frost_walker": 2,
+      "spell_power:critical_chance": 2,
+      "spell_power:critical_damage": 2,
+      "spell_power:energize": 2,
+      "spell_power:haste": 2,
+      "spell_power:magic_protection": 2,
+      "spell_power:soulfrost": 2,
+      "spell_power:spell_power": 2,
+      "spell_power:sunfire": 2
+    }
+  },
+  "magic_10": {
+    "skills": {
+      "magic": 10
+    },
+    "items": [
+    "wizards:wand_arcane",
+    "wizards:wand_fire",
+    "wizards:wand_frost",
+    "wizards:staff_arcane",
+    "wizards:staff_fire",
+    "wizards:staff_frost",
+    "wizards:arcane_robe_head",
+    "wizards:arcane_robe_chest",
+    "wizards:arcane_robe_legs",
+    "wizards:arcane_robe_feet",
+    "wizards:fire_robe_head",
+    "wizards:fire_robe_chest",
+    "wizards:fire_robe_legs",
+    "wizards:fire_robe_feet",
+    "wizards:frost_robe_head",
+    "wizards:frost_robe_chest",
+    "wizards:frost_robe_legs",
+    "wizards:frost_robe_feet",
+    "paladins:diamond_holy_wand",
+    "paladins:diamond_holy_staff",
+    "elemental_wizards_rpg:wand_aqua",
+    "elemental_wizards_rpg:staff_aqua",
+    "elemental_wizards_rpg:wand_terra",
+    "elemental_wizards_rpg:staff_terra",
+    "elemental_wizards_rpg:wand_wind",
+    "elemental_wizards_rpg:staff_wind",
+    "elemental_wizards_rpg:kelp_head",
+    "elemental_wizards_rpg:kelp_chest",
+    "elemental_wizards_rpg:kelp_legs",
+    "elemental_wizards_rpg:kelp_feet",
+    "elemental_wizards_rpg:dripstone_head",
+    "elemental_wizards_rpg:dripstone_chest",
+    "elemental_wizards_rpg:dripstone_legs",
+    "elemental_wizards_rpg:dripstone_feet",
+    "elemental_wizards_rpg:wind_head",
+    "elemental_wizards_rpg:wind_chest",
+    "elemental_wizards_rpg:wind_legs",
+    "elemental_wizards_rpg:wind_feet",
+    "minecraft:totem_of_undying",
+      "fwaystones:void_totem"
+
+    ],
+    "enchantments": {
+      "spell_power:critical_chance": 3,
+      "spell_power:critical_damage": 3,
+      "spell_power:energize": 3,
+      "spell_power:haste": 3,
+      "spell_power:magic_protection": 3,
+      "spell_power:soulfrost": 3,
+      "spell_power:spell_power": 3,
+      "spell_power:sunfire": 3
+    }
+  },
+  "magic_16": {
+    "skills": {
+      "magic": 16
+    },
+    "items": [
+      "paladins:netherite_holy_wand",
+      "paladins:netherite_holy_staff",
+      "wizards:wand_netherite_arcane",
+      "wizards:wand_netherite_fire",
+      "wizards:wand_netherite_frost",
+      "wizards:staff_netherite_arcane",
+      "wizards:staff_netherite_fire",
+      "wizards:staff_netherite_frost",
+      "elemental_wizards_rpg:wand_netherite_aqua",
+      "elemental_wizards_rpg:staff_netherite_aqua",
+      "elemental_wizards_rpg:wand_netherite_terra",
+      "elemental_wizards_rpg:staff_netherite_terra",
+      "elemental_wizards_rpg:wand_netherite_wind",
+      "elemental_wizards_rpg:staff_netherite_wind",
+      "elemental_wizards_rpg:elemental_head",
+      "elemental_wizards_rpg:elemental_chest",
+      "elemental_wizards_rpg:elemental_legs",
+      "elemental_wizards_rpg:elemental_feet"
+    ],
+    "enchantments": {
+      "spell_power:critical_chance": 4,
+      "spell_power:critical_damage": 4,
+      "spell_power:energize": 4,
+      "spell_power:haste": 4,
+      "spell_power:magic_protection": 4,
+      "spell_power:soulfrost": 4,
+      "spell_power:spell_power": 4,
+      "spell_power:sunfire": 4
+    }
+  },
+  "magic_20": {
+    "skills": {
+      "magic": 20
+    },
+    "enchantments": {
+      "spell_power:critical_chance": 5,
+      "spell_power:critical_damage": 5,
+      "spell_engine:spell_infinity": 1,
+      "spell_power:energize": 5,
+      "spell_power:haste": 5,
+      "spell_power:magic_protection": 5,
+      "spell_power:soulfrost": 5,
+      "spell_power:spell_power": 5,
+      "spell_power:sunfire": 5
+    }
+  },
+  "magic_24": {
+    "skills": {
+      "magic": 24
+    },
+    "items": [
+    "paladins:netherite_prior_robe_head",
+    "paladins:netherite_prior_robe_chest",
+    "paladins:netherite_prior_robe_legs",
+    "paladins:netherite_prior_robe_feet",
+    "wizards:netherite_arcane_robe_head",
+    "wizards:netherite_arcane_robe_chest",
+    "wizards:netherite_arcane_robe_legs",
+    "wizards:netherite_arcane_robe_feet",
+    "wizards:netherite_fire_robe_head",
+    "wizards:netherite_fire_robe_chest",
+    "wizards:netherite_fire_robe_legs",
+    "wizards:netherite_fire_robe_feet",
+    "wizards:netherite_frost_robe_head",
+    "wizards:netherite_frost_robe_chest",
+    "wizards:netherite_frost_robe_legs",
+    "wizards:netherite_frost_robe_feet",
+    "elemental_wizards_rpg:netherite_kelp_head",
+    "elemental_wizards_rpg:netherite_kelp_chest",
+    "elemental_wizards_rpg:netherite_kelp_legs",
+    "elemental_wizards_rpg:netherite_kelp_feet",
+    "elemental_wizards_rpg:netherite_dripstone_head",
+    "elemental_wizards_rpg:netherite_dripstone_chest",
+    "elemental_wizards_rpg:netherite_dripstone_legs",
+    "elemental_wizards_rpg:netherite_dripstone_feet",
+    "elemental_wizards_rpg:netherite_wind_head",
+    "elemental_wizards_rpg:netherite_wind_chest",
+    "elemental_wizards_rpg:netherite_wind_legs",
+    "elemental_wizards_rpg:netherite_wind_feet",
+    "friendsandfoes:totem_of_freezing",
+    "friendsandfoes:totem_of_illusion",
+    "betterarcheology:torrent_totem",
+    "betterarcheology:soul_totem",
+    "betterarcheology:growth_totem",
+    "betterarcheology:radiance_totem"
+    ]
+  },
+  "magic_32": {
+    "skills": {
+      "magic": 32
+    },
+    "items": [
+      "paladins:ruby_holy_staff",
+      "wizards:staff_ruby_fire",
+      "wizards:staff_crystal_arcane",
+      "wizards:staff_smaragdant_frost",
+      "bosses_of_mass_destruction:mob_ward",
+      "elemental_wizards_rpg:staff_ruby_terra"
+    ]
+  },
+  "magic_40": {
+    "skills": {
+      "magic": 40
+    },
+    "items": [
+      "paladins:aether_holy_staff",
+      "wizards:aether_wizard_staff",
+      "elemental_wizards_rpg:staff_aether"
+    ]
+  },
+  "magic_50": {
+    "skills": {
+      "magic": 50
+    },
+    "items": [
+      "deeperdarker:sonorous_staff"
+    ]
+  },
+  "mining_1": {
+    "skills": {
+      "mining": 1
+    },
+    "items": [
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_shovel",
+      "aether:holystone_pickaxe",
+      "aether:holystone_shovel"
+    ]
+  },
+  "mining_2": {
+    "skills": {
+      "mining": 2
+    },
+    "items": [
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_shovel",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "betterend:thallasium_pickaxe",
+      "betterend:thallasium_shovel"
+    ]
+  },
+  "mining_3": {
+    "skills": {
+      "mining": 3
+    }
+  },
+  "mining_4": {
+    "skills": {
+      "mining": 4
+    },
+    "items": [
+      "aether:zanite_pickaxe",
+      "aether:zanite_shovel"
+    ]
+  },
+  "mining_5": {
+    "skills": {
+      "mining": 5
+    },
+    "blocks": [
+    "travelersbackpack:bat",
+    "travelersbackpack:squid",
+    "travelersbackpack:quartz"
+    ],
+    "items": [
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "winterly:cryomarble_shovel",
+    "winterly:cryomarble_pickaxe",
+    "deeperdarker:resonarium_pickaxe",
+    "deeperdarker:resonarium_shovel",
+    "betterend:terminite_shovel",
+    "betterend:terminite_pickaxe",
+    "travelersbackpack:bat",
+    "travelersbackpack:squid",
+    "travelersbackpack:quartz"
+    ]
+  },
+  "mining_16": {
+    "skills": {
+      "mining": 16
+    },
+    "items": [
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_pickaxe",
+    "betternether:cincinnasite_shovel",
+    "betternether:cincinnasite_pickaxe"
+    ]
+  },
+  "mining_7": {
+    "skills": {
+      "mining": 7
+    },
+    "items": [
+    "aether:gravitite_pickaxe",
+    "aether:gravitite_shovel"
+    ]
+  },
+  "mining_8": {
+    "skills": {
+      "mining": 8
+    },
+    "items": [
+    "betternether:nether_ruby_pickaxe",
+    "betternether:nether_ruby_shovel"
+    ]
+  },
+  "mining_9": {
+    "skills": {
+      "mining": 9
+    },
+    "blocks": [],
+    "crafting": [],
+    "entities": [],
+    "items": [
+      "betternether:cincinnasite_pickaxe_diamond",
+      "betternether:cincinnasite_shovel_diamond",
+      "betterend:aeternium_shovel",
+      "betterend:aeternium_pickaxe",
+      "deeperdarker:warden_shovel",
+      "deeperdarker:warden_pickaxe"
+    ]
+  },
+  "mining_25": {
+    "skills": {
+      "mining": 25
+    },
+    "items": [
+    "betternether:flaming_ruby_pickaxe",
+    "betternether:flaming_ruby_shovel",
+    "dragonloot:dragon_shovel",
+    "dragonloot:dragon_pickaxe",
+    "aether:valkyrie_pickaxe",
+    "aether:valkyrie_shovel"
+    ]
+  },
+  "smithing_1": {
+    "skills": {
+      "smithing": 1
+    },
+    "blocks": [
+      "minecraft:furnace",
+      "minecraft:dispenser",
+      "minecraft:dropper",
+      "minecraft:hopper"
+    ]
+  },
+  "smithing_2": {
+    "skills": {
+      "smithing": 2
+    },
+    "blocks": [
+      "minecraft:anvil",
+      "minecraft:chipped_anvil",
+      "minecraft:damaged_anvil",
+      "minecraft:grindstone",
+      "minecraft:stonecutter"
+    ]
+  },
+  "smithing_4": {
+    "skills": {
+      "smithing": 4
+    },
+    "blocks": [
+    "minecraft:blast_furnace"
+    ],
+    "enchantments": {
+      "minecraft:efficiency": 1
+    }
+  },
+  "smithing_5": {
+    "skills": {
+      "smithing": 5
+    },
+    "blocks": [
+    "minecraft:crafter",
+    "rogues:arms_workbench",
+    "minecraft:smithing_table",
+    "travelersbackpack:enderman"
+    ],
+    "items": [
+    "travelersbackpack:enderman"
+    ]
+  },
+  "smithing_8": {
+    "skills": {
+      "smithing": 8
+    },
+    "enchantments": {
+      "minecraft:efficiency": 2,
+      "minecraft:unbreaking": 1
+    }
+  },
+  "smithing_16": {
+    "skills": {
+      "smithing": 16
+    },
+    "enchantments": {
+      "minecraft:efficiency": 3,
+      "minecraft:fortune": 1,
+      "minecraft:looting": 1
+    }
+  },
+  "smithing_20": {
+    "skills": {
+      "smithing": 20
+    },
+    "crafting": [
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots",
+      "aether:netherite_gloves",
+      "archers:netherite_spear",
+      "betterend:netherite_hammer",
+      "farmersdelight:netherite_knife",
+      "paladins:netherite_claymore",
+      "paladins:netherite_great_hammer",
+      "paladins:netherite_mace",
+      "rogues:netherite_dagger",
+      "rogues:netherite_sickle",
+      "rogues:netherite_double_axe",
+      "rogues:netherite_glaive",
+      "paladins:netherite_prior_robe_head",
+      "paladins:netherite_prior_robe_chest",
+      "paladins:netherite_prior_robe_legs",
+      "paladins:netherite_prior_robe_feet",
+      "paladins:netherite_holy_wand",
+      "paladins:netherite_holy_staff",
+      "wizards:wand_netherite_arcane",
+      "wizards:wand_netherite_fire",
+      "wizards:wand_netherite_frost",
+      "wizards:staff_netherite_arcane",
+      "wizards:staff_netherite_fire",
+      "wizards:staff_netherite_frost",
+      "wizards:netherite_arcane_robe_head",
+      "wizards:netherite_arcane_robe_chest",
+      "wizards:netherite_arcane_robe_legs",
+      "wizards:netherite_arcane_robe_feet",
+      "wizards:netherite_fire_robe_head",
+      "wizards:netherite_fire_robe_chest",
+      "wizards:netherite_fire_robe_legs",
+      "wizards:netherite_fire_robe_feet",
+      "wizards:netherite_frost_robe_head",
+      "wizards:netherite_frost_robe_chest",
+      "wizards:netherite_frost_robe_legs",
+      "wizards:netherite_frost_robe_feet",
+      "betternether:cincinnasite_sword_diamond",
+      "betternether:cincinnasite_pickaxe_diamond",
+      "betternether:cincinnasite_axe_diamond",
+      "betternether:cincinnasite_shovel_diamond",
+      "betternether:cincinnasite_hoe_diamond"
+    ],
+    "enchantments": {
+    "minecraft:efficiency": 4,
+    "minecraft:silk_touch": 1,
+    "minecraft:fortune": 2,
+    "minecraft:looting": 2,
+    "minecraft:unbreaking": 2
+    }
+  },
+  "smithing_24": {
+    "skills": {
+      "smithing": 24
+    },
+    "crafting": [
+    "deeperdarker:warden_sword",
+    "deeperdarker:warden_shovel",
+    "deeperdarker:warden_pickaxe",
+    "deeperdarker:warden_axe",
+    "deeperdarker:warden_hoe",
+    "deeperdarker:warden_helmet",
+    "deeperdarker:warden_chestplate",
+    "deeperdarker:warden_leggings",
+    "deeperdarker:warden_boots"
+    ],
+    "enchantments": {
+      "minecraft:efficiency": 5,
+      "minecraft:fortune": 3,
+      "minecraft:looting": 3,
+      "minecraft:unbreaking": 3
+    }
+  },
+  "smithing_25": {
+    "skills": {
+      "smithing": 25
+    },
+    "blocks": [
+      "dragonloot:dragon_anvil"
+    ],
+    "crafting": [
+    "betternether:flaming_ruby_helmet",
+    "betternether:flaming_ruby_chestplate",
+    "betternether:flaming_ruby_leggings",
+    "betternether:flaming_ruby_boots",
+    "betternether:flaming_ruby_sword",
+    "betternether:flaming_ruby_pickaxe",
+    "betternether:flaming_ruby_axe",
+    "betternether:flaming_ruby_shovel",
+    "betternether:flaming_ruby_hoe",
+    "dragonloot:dragon_sword",
+    "dragonloot:dragon_shovel",
+    "dragonloot:dragon_pickaxe",
+    "dragonloot:dragon_axe",
+    "dragonloot:dragon_hoe",
+    "dragonloot:dragon_helmet",
+    "dragonloot:upgraded_dragon_chestplate",
+    "dragonloot:dragon_chestplate",
+    "dragonloot:dragon_leggings",
+    "dragonloot:dragon_boots",
+    "dragonloot:dragon_bow",
+    "dragonloot:dragon_crossbow",
+    "dragonloot:dragon_trident",
+    "dragonloot:dragon_horse_armor"
+    ],
+    "enchantments": {
+      "minecraft:mending": 1
+    }
+  },
+  "farming_1": {
+    "skills": {
+      "farming": 1
+    },
+    "blocks": [
+      "minecraft:composter"
+    ],
+    "items": [
+      "minecraft:stone_hoe",
+      "minecraft:stone_axe"
+    ]
+  },
+  "farming_2": {
+    "skills": {
+      "farming": 2
+    },
+    "items": [
+      "aether:holystone_axe",
+      "aether:holystone_hoe"
+    ],
+    "enchantments": {
+      "minecraft:lure": 1,
+      "minecraft:luck_of_the_sea": 1
+    }
+  },
+  "farming_3": {
+    "skills": {
+      "farming": 3
+      
+    },
+    "items": [
+      "minecraft:iron_hoe",
+      "minecraft:iron_axe",
+      "minecraft:golden_hoe",
+      "minecraft:golden_axe",
+      "betterend:thallasium_hoe",
+      "betterend:thallasium_axe",
+      "minecraft:fishing_rod",
+      "minecraft:shears",
+      "minecraft:bucket",
+      "minecraft:water_bucket",
+      "minecraft:cod_bucket",
+      "minecraft:salmon_bucket",
+      "minecraft:tropical_fish_bucket",
+      "minecraft:pufferfish_bucket",
+      "minecraft:axolotl_bucket",
+      "minecraft:tadpole_bucket",
+      "minecraft:powder_snow_bucket",
+      "aether:skyroot_bucket",
+      "aether:skyroot_water_bucket",
+      "aether:skyroot_poison_bucket",
+      "aether:skyroot_remedy_bucket",
+      "aether:skyroot_powder_snow_bucket",
+      "aether:skyroot_cod_bucket",
+      "aether:skyroot_salmon_bucket",
+      "aether:skyroot_pufferfish_bucket",
+      "aether:skyroot_tropical_fish_bucket",
+      "aether:skyroot_axolotl_bucket",
+      "aether:skyroot_tadpole_bucket"
+  
+    ]
+  },
+  "farming_4": {
+    "skills": {
+      "farming": 4
+    },
+    "blocks": [
+    "minecraft:bee_nest",
+    "minecraft:beehive",
+    "minecraft:loom",
+    "travelersbackpack:sponge",
+    "travelersbackpack:cactus",
+    "travelersbackpack:pumpkin",
+    "aether:altar",
+    "aether:freezer",
+    "aether:incubator"
+    ],
+    "items": [
+    "travelersbackpack:sponge",
+    "travelersbackpack:cactus",
+    "travelersbackpack:pumpkin",
+    "aether:zanite_hoe",
+    "aether:zanite_axe"
+    ],
+    "enchantments": {
+      "minecraft:lure": 2
+    }
+  },
+  "farming_5": {
+    "skills": {
+      "farming": 5
+    },
+    "items": [
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "winterly:cryomarble_axe",
+      "winterly:cryomarble_hoe",
+      "deeperdarker:resonarium_axe",
+      "deeperdarker:resonarium_hoe",
+      "minecraft:lava_bucket",
+      "netherdepthsupgrade:lava_fishing_rod"
+    ]
+  },
+  "farming_10": {
+    "skills": {
+      "farming": 10
+    },
+    "items": [
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "betternether:cincinnasite_axe",
+      "betternether:cincinnasite_hoe"
+    ]
+  },
+  "farming_12": {
+    "skills": {
+      "farming": 12
+    },
+    "items": [
+    "aether:gravitite_axe",
+    "aether:gravitite_hoe"
+    ],
+    "enchantments": {
+      "minecraft:luck_of_the_sea": 2
+    }
+  },
+  "farming_16": {
+    "skills": {
+      "farming": 16
+    },
+    "items": [
+    "betternether:nether_ruby_axe",
+    "betternether:nether_ruby_hoe"
+    ],
+    "enchantments": {
+      "minecraft:lure": 3
+    }
+  },
+  "farming_18": {
+    "skills": {
+      "farming": 18
+    },
+    "items": [
+    "betterend:aeternium_axe",
+    "betterend:aeternium_hoe"
+    ]
+  },
+  "farming_20": {
+    "skills": {
+      "farming": 20
+    },
+    "items": [
+    "betternether:cincinnasite_axe_diamond",
+    "betternether:cincinnasite_hoe_diamond"
+    ],
+    "enchantments": {
+      "minecraft:luck_of_the_sea": 3
+    }
+  },
+  "farming_24": {
+    "skills": {
+      "farming": 24
+    },
+    "items": [
+    "deeperdarker:warden_axe",
+    "deeperdarker:warden_hoe"
+    ]
+  },
+  "farming_25": {
+    "skills": {
+      "farming": 25
+    },
+    "items": [
+    "betternether:flaming_ruby_axe",
+    "betternether:flaming_ruby_hoe",
+    "dragonloot:dragon_axe",
+    "dragonloot:dragon_hoe",
+    "aether:valkyrie_hoe",
+    "aether:valkyrie_axe"
+    ]
+  },
+  "cooking_2": {
+    "skills": {
+      "cooking": 2
+    },
+    "blocks": [
+    "farmersdelight:cutting_board"
+    ],
+    "items": [
+    "minecraft:milk_bucket",
+    "aether:skyroot_milk_bucket"
+    ],
+    "enchantments": {
+
+    }
+  },
+  "cooking_3": {
+    "skills": {
+      "cooking": 3
+    },
+    "blocks": [
+    "minecraft:brewing_stand"
+    ]
+  },
+  "cooking_4": {
+    "skills": {
+      "cooking": 4
+    },
+    "blocks": [
+    "minecraft:smoker",
+    "farmersdelight:cooking_pot",
+    "travelersbackpack:melon",
+    "minecraft:cauldron"
+    ],
+    "items": [
+    "travelersbackpack:melon"
+    ]
+  },
+  "cooking_5": {
+    "skills": {
+      "cooking": 5
+    },
+    "blocks": [
+    "farmersdelight:stove",
+    "travelersbackpack:cow"
+    ],
+    "items": [
+    "travelersbackpack:cow"
+    ]
+  },
+  "cooking_20": {
+    "skills": {
+      "cooking": 20
+    },
+    "blocks": [
+    "farmersdelight:stove",
+    "travelersbackpack:cake"
+    ],
+    "items": [
+    "travelersbackpack:cake"
+    ]
+  },
+  "bartering_1": {
+    "skills": {
+      "bartering": 1
+    },
+    "entities": ["minecraft:villager"]
+  },
+  "bartering_8": {
+    "skills": {
+      "bartering": 8
+    },
+    "entities": ["minecraft:wandering_trader"]
+  },
+  "bartering_10": {
+    "skills": {
+      "bartering": 10
+    },
+    "entities": ["minecraft:piglin"]
+  },
+  "luck_5": {
+    "skills": {
+      "luck": 5
+    },
+    "blocks": [
+    "minecraft:beacon",
+    "travelersbackpack:emerald",
+    "travelersbackpack:lapis",
+    "aether:sun_altar"
+    ],
+  "items": [
+    "travelersbackpack:emerald",
+    "travelersbackpack:lapis"
+    ]
+  },
+  "luck_10": {
+    "skills": {
+      "luck": 10
+    },
+    "items": ["spawnermod:spawner_key"]
+  }
+}

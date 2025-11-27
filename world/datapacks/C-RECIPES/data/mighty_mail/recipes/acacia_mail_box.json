@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:barrel"
+    },
+    "F": {
+      "item": "minecraft:acacia_fence"
+    },
+    "S": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    " F "
+  ],
+  "result": {
+    "item": "mighty_mail:acacia_mail_box",
+    "count": 1
+  }
+}
